@@ -1,0 +1,237 @@
+{
+	"array": [{
+		"id": 0,
+		"tipo": "Pentateuco o Torá",
+		"idnam": "Genesis",
+		"titulo": "El libro del Génesis relata la historia de la creación del mundo.",
+		"archivo": "genesis"
+	}, {
+		"id": 1,
+		"tipo": "Pentateuco o Torá",
+		"idnam": "Éxodo",
+		"titulo": "Los principales hechos del libro giran alrededor de la partida de los esclavos hebreos de Egipto.",
+		"archivo": "exodo"
+	}, {
+		"id": 2,
+		"tipo": "Pentateuco o Torá",
+		"idnam": "Levitico",
+		"titulo": "Este libro trata los temas de las leyes referidas a los sacrificios, la consagración de los sacerdotes.",
+		"archivo": "levitico"
+	}, {
+		"id": 3,
+		"tipo": "Pentateuco o Torá",
+		"idnam": "Números",
+		"titulo": "Este libro narra los mandamientos dados durante las estancias en el Sinaí.",
+		"archivo": "numeros"
+	}, {
+		"id": 4,
+		"tipo": "Pentateuco o Torá",
+		"idnam": "Deuteronomio",
+		"titulo": "Este libro relata lo que sucedió desde la entrega de las Tablas de la Ley.",
+		"archivo": "deuteronomio"
+	}, {
+		"id": 5,
+		"tipo": "Libros Históricos",
+		"idnam": "Josué",
+		"titulo": "Este libro narra la conquista de la Tierra Prometida y el reparto que Josué efectúa entre las diversas tribus.",
+		"archivo": "josue"
+	}, {
+		"id": 6,
+		"tipo": "Libros Históricos",
+		"idnam": "Jueces",
+		"titulo": "Narra el período que va desde la muerte de Josué hasta el nacimiento de Samuel",
+		"archivo": "jueces"
+	}, {
+		"id": 7,
+		"tipo": "Libros Históricos",
+		"idnam": "Ruth",
+		"titulo": "El libro narra la historia de Elimélec",
+		"archivo": "rut"
+	}, {
+		"id": 8,
+		"tipo": "Libros Históricos",
+		"idnam": "1º de Samuel",
+		"titulo": "Este libro cuenta la historia de Samuel y del reinado del rey Saúl hasta su muerte",
+		"archivo": "1samuel"
+	}, {
+		"id": 9,
+		"tipo": "Libros Históricos",
+		"idnam": "2º de Samuel",
+		"titulo": "Siendo la continuación de I Samuel, cuenta la historia de Israel a partir de la muerte del rey Saúl y el subsiguiente reinado de David.",
+		"archivo": "2samuel"
+	}, {
+		"id": 10,
+		"tipo": "Libros Históricos",
+		"idnam": "1º de Reyes",
+		"titulo": "Este libro cuenta la historia del reinado de Salomón, hijo de David y de los reinos de Judá e Israel.",
+		"archivo": "1reyes"
+	}, {
+		"id": 11,
+		"tipo": "Libros Históricos",
+		"idnam": "2º de Reyes",
+		"titulo": "En este libro continúa la historia de los reinos de Judá e Israel desde la muerte de Salomón hasta la caída de Samaria y de Jerusalén",
+		"archivo": "2reyes"
+	}, {
+		"id": 12,
+		"tipo": "Libros Históricos",
+		"idnam": "1º de Crónicas",
+		"titulo": "Este libro en particular narra el período comprendido desde los orígenes hasta la muerte de David",
+		"archivo": "1cronicas"
+	}, {
+		"id": 13,
+		"tipo": "Libros Históricos",
+		"idnam": "2º de Crónicas",
+		"titulo": "Este libro en particular narra el período comprendido entre la muerte de David y la liberación final.",
+		"archivo": "2cronicas"
+	}, {
+		"id": 14,
+		"tipo": "Libros Históricos",
+		"idnam": "Esdras",
+		"titulo": "Esdras trata especialmente de la reconstrucción del Templo y de la organización legal del judaísmo.",
+		"archivo": "esdras"
+	}, {
+		"id": 15,
+		"tipo": "Libros Históricos",
+		"idnam": "Nehemías",
+		"titulo": "Este libro narra la reconstrucción de las murallas de Jerusalén, el arreglo del templo y las reformas llevadas a cabo por Nehemías.",
+		"archivo": "nehemias"
+	}, {
+		"id": 16,
+		"tipo": "Libros Históricos",
+		"idnam": "Esther",
+		"titulo": "Es de gran valor entre el pueblo judío, ya que narra la salvación de los judíos de un exterminio inminente preparado por Haman el amalecita.",
+		"archivo": "ester"
+	}, {
+		"id": 17,
+		"tipo": "Libros Sapienciales",
+		"idnam": "Job",
+		"titulo": "Éste libro, cuenta la historia de Job, un hombre justo y temeroso de Dios que es probado duramente para ver si negaba a Dios y se apartaba de él.",
+		"archivo": "job"
+	}, {
+		"id": 18,
+		"tipo": "Libros Sapienciales",
+		"idnam": "Salmos",
+		"titulo": "Este libro contiene salmos y oraciones, mayormente del rey David.",
+		"archivo": "salmos"
+	}, {
+		"id": 19,
+		"tipo": "Libros Sapienciales",
+		"idnam": "Proverbios",
+		"titulo": "Son las enseñanzas de la filosofía teológica que enseñan al hombre a ser como los sabios y a vivir en consecuencia.",
+		"archivo": "proverbios"
+	}, {
+		"id": 20,
+		"tipo": "Libros Sapienciales",
+		"idnam": "Eclesiastés",
+		"titulo": "Es el compendio de las meditaciones de Salomón. Tras investigar la vida y ver que todo es vanidad, discurre que lo único importante en la vida es guardar la Palabra de Dios, por la cual seremos juzgados.",
+		"archivo": "eclesiastes"
+	}, {
+		"id": 21,
+		"tipo": "Libros Sapienciales",
+		"idnam": "Cantar de los Cantares",
+		"titulo": "Trata de dos amantes, Salomón y Sulamit, que han sido obligados a separarse.",
+		"archivo": "cantar"
+	}, {
+		"id": 22,
+		"tipo": "Libros Proféticos",
+		"idnam": "Isaías",
+		"titulo": "Este libro contiene profecías con muy vivos destellos de tempranos sueños y aspiraciones de una redención universal para todos los pueblos de la tierra.",
+		"archivo": "isaias"
+	}, {
+		"id": 23,
+		"tipo": "Libros Proféticos",
+		"idnam": "Jeremías",
+		"titulo": "Este libro contiene la historia y profecías de Jeremías, un hidalgo judío sumamente sensible, que desde muy joven se sintió obligado a concienciar al pueblo de la necesidad de ser fieles y obedientes ante Dios.",
+		"archivo": "jeremias"
+	}, {
+		"id": 24,
+		"tipo": "Libros Proféticos",
+		"idnam": "Lamentaciones de Jeremías",
+		"titulo": "Evocan vivamente los horrores del sitio, caída y destrucción de Jerusalén, y la insondable pena de ver a los judíos humillados, marchando hacia el exilio, llevados como ovejas por los conquistadores babilonios.",
+		"archivo": "lamentaciones"
+	}, {
+		"id": 25,
+		"tipo": "Libros Proféticos",
+		"idnam": "Ezequiel",
+		"titulo": "En la introducción, Dios entrega al profeta los lineamientos de su misión profética, mientras que los capítulos siguientes detallan una larga serie de amenazas y futuros castigos para Jerusalén y Judá, para los falsos profetas y, en general, para todos los judíos que han pecado antes de la invasión de Nabucodonosor.",
+		"archivo": "ezequiel"
+	}, {
+		"id": 26,
+		"tipo": "Libros Proféticos",
+		"idnam": "Daniel",
+		"titulo": "Este libro es la suma de hasta doce distintos documentos que relatan historias y visiones adscritas a Daniel, un sabio y consejero judío del exilio que prestó sus servicios en las cortes de reyes babilonios.",
+		"archivo": "daniel"
+	}, {
+		"id": 27,
+		"tipo": "Profetas menores",
+		"idnam": "Oseas",
+		"titulo": "Este libro relata una profecía que se divide en dos partes.",
+		"archivo": "oseas"
+	}, {
+		"id": 28,
+		"tipo": "Profetas menores",
+		"idnam": "Joel",
+		"titulo": "El libro de Joel se encuentra dividido en dos partes claramente diferenciadas. En la primera, una devastadora plaga de langostas destruye el país, produciendo una celebración penitencial entre las víctimas. La segunda parte trata acerca de los frutos de la penitencia y de la liberación que anuncia una redención futura.",
+		"archivo": "joel"
+	}, {
+		"id": 29,
+		"tipo": "Profetas menores",
+		"idnam": "Amós",
+		"titulo": "Este libro da un mensaje de advertencia hacia las naciones paganas y a los pecadores de Judá e Israel ya que serán juzgados por Yavé (Dios) y castigados pero eventualmente podrían ser perdonados.",
+		"archivo": "amos"
+	}, {
+		"id": 30,
+		"tipo": "Profetas menores",
+		"idnam": "Abdías",
+		"titulo": "El libro de Abdías profetiza la venganza de Yavé contra Edom, que llegará en 312 con su conquista por parte de los árabes.",
+		"archivo": "abdias"
+	}, {
+		"id": 31,
+		"tipo": "Profetas menores",
+		"idnam": "Jonas",
+		"titulo": "El libro da cuenta del profeta Jonás y una historia bien conocida en la cual Dios manda a Jonás profetizar o predicar al pueblo de Nínive para persuadirlos de arrepentirse o recibir destrucción.",
+		"archivo": "jonas"
+	}, {
+		"id": 32,
+		"tipo": "Profetas menores",
+		"idnam": "Miqueas",
+		"titulo": "Este libro trata sobre el castigo de Dios sobre el reino del norte por pecados como: idolatría, adoración de Baal, sacrificios, rituales de niños, magia y encantamientos.",
+		"archivo": "miqueas"
+	}, {
+		"id": 33,
+		"tipo": "Profetas menores",
+		"idnam": "Nahúm",
+		"titulo": "Nahúm profetiza la destrucción de Nínive, que simboliza la liberación de todas las esclavitudes.",
+		"archivo": "nahum"
+	}, {
+		"id": 34,
+		"tipo": "Profetas menores",
+		"idnam": "Habacuc",
+		"titulo": "Este libro narra los días finales del Imperio Asirio y el principio del dominio de Babilonia a escala mundial bajo Nabopolasar y su hijo Nabucodonosor.",
+		"archivo": "habacuc"
+	}, {
+		"id": 35,
+		"tipo": "Profetas menores",
+		"idnam": "Sofonías",
+		"titulo": "El libro de Sofonías es una invitación a la penitencia y una afirmación del amor de Dios hacia el pueblo.",
+		"archivo": "sofonias"
+	}, {
+		"id": 36,
+		"tipo": "Profetas menores",
+		"idnam": "Hageo",
+		"titulo": "Este libro trata principalmente de la reconstrucción del Templo y se divide en cuatro discursos o sermones que se encuentran en orden cronológico.",
+		"archivo": "hageo"
+	}, {
+		"id": 37,
+		"tipo": "Profetas menores",
+		"idnam": "Zacarías",
+		"titulo": "Este libro habla principalmente sobre la restauración del Templo y de Jerusalén y de la coronación del Sumo sacerdote Josué.",
+		"archivo": "zacarias"
+	}, {
+		"id": 38,
+		"tipo": "Profetas menores",
+		"idnam": "Malaquías",
+		"titulo": "Este es el último libro del Antiguo Testamento que reprocha las actitudes de las familias al separarse y el comportamiento de los sacerdotes por el no cumplimiento al culto divino.",
+		"archivo": "malaquias"
+	}]
+}
