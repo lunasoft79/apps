@@ -1,0 +1,166 @@
+{
+	"data": [{
+			"id": 0,
+			"titulo": "Presentación",
+			"imagen": "2b.png",
+			"manda": "contenidof",
+			"titora": "Presentación",
+			"titora2": "¡Mucho éxito!",
+			"imagenf": "icon-liderazgo.png",
+			"ora": "<p>Este es un curso donde podrás diferenciar los conceptos de talento, liderazgo, los valores en la vida personal y profesional. Además conocerás los procesos que existen en el desarrollo dentro de un equipo cuando está bajo la cobertura de un líder certificado, y finalmente ejercer un liderazgo capacitado para cambios positivos, que alcance las metas propuestas y levantar al equipo en caso de que estuviese en declive.</p><p>Antes de comenzar, es necesario conocer estrictamente los conceptos anteriormente descritos:</p><p><strong>¿Qué es el talento?</strong> Es el resultado de la aptitud, la actitud y el contexto adecuado donde se puede desarrollar una persona.</p><p><strong>¿Qué es liderar?</strong> Es generar contextos estimulantes para que las personas puedan retarse y enfrentarse a situaciones de aprendizaje.</p><p><strong>¿Qué son los valores?</strong> Son aspectos absolutamente innegociables que nos informan de nuestra esencia.</p><p> </p><p>De antemano, solicito al alumno tener calma con lo que continuará leyendo, ya que este es un proceso de adaptabilidad para quienes quieren liderar de una forma contemporánea y de calidad. Con esto quiero decir, que no lea de forma apurada ni bajo presión, leer este curso con calma y tomando todo el apunte posible de más relevancia.</p>"
+		}, {
+			"id": 1,
+			"titulo": "Concepto del liderazgo",
+			"imagen": "2b.png",
+			"manda": "contenidof",
+			"titora": "Concepto del liderazgo",
+			"titora2": "",
+			"imagenf": "concepto.png",
+			"ora": "<p>El <strong>liderazgo</strong> es un concepto que se remonta en la Roma clásica, el cual lo utilizaban para dos tipos de personas; para los <em>Potestas </em>y para los <em>Auctoritas</em>.</p><p><strong>Líderes de Potestas</strong>: es un poder formal, una posición jerárquica. Mientras más batallas ganaban, más potesta se les entregaba a estos líderes.</p><p><strong>Líderes de Auctoritas</strong>: son los que tienen un reconocimiento moral el cual se gana por otras personas que se posicionan debajo del líder de forma independiente y autónoma.</p><p> </p><p><strong>En la actualidad</strong> estos dos términos se pueden mezclar para formar <strong>cuatro tipos de lideres</strong> que se ven en la cotidianidad.</p><p><em>1.- <strong>Sin potestas - Sin auctoritas</strong></em> (<strong>líder liberal</strong>): caos y anarquía por parte de los miembros del equipo. Pues entonces, el equipo puede sobrevivir, pero no hay eficiencia.</p><p><em>2.- <strong>Potestas - Sin auctoritas</strong></em> (<strong>líder represivo</strong>): existe autoridad, pero no mucho contacto con el equipo, utiliza el miedo como forma de repliegue para el grupo. Un buen ejemplo, es algún jefe de nuestro trabajo que amenaza constantemente nuestra labor.</p><p><em>3.- <strong>Sin potestas - Auctoritas</strong></em> (<strong>líder simpático</strong>): es un liderazgo informal, no superan muchos cambios positivos, la confianza es tal, que ni existe la relación jerárquica entre el líder y su personal, no poseen muchas metas, y muy pocas tienen éxito.</p><p><em>4.- <strong>Potestas - Auctoritas</strong></em> (<strong>líder transformador positivo</strong>): tenemos equilibrio, un poder formal y de valor con un gran reconocimiento de las personas. Este tipo de liderazgo es inspirador y tiende ir al cambio positivo.</p><p> </p><p>Este curso tiene como finalidad centrarnos en un sólo tipo de liderazgo, el cual es el mas óptimo para cualquier equipo. El Líder transformador positivo, o también conocido como un líder democrático, el cual es esencial para cualquier grupo que necesite consolidarse y avanzar hacía las metas correctas.</p>"
+			},{
+			"id": 2,
+			"titulo": "Creación de una visión colectiva inspiradora",
+			"imagen": "1b.png",
+			"manda": "contenidof",
+			"titora": "Creación de una visión colectiva inspiradora",
+			"titora2": "",
+			"imagenf": "inspiracion.png",
+			"ora": "<p>Los líderes son generadores de visiones colectivas estimulantes. Esto quiere decir, que debemos aportar sentido a lo que se hará dentro de la organización, generar anhelos y motivación para retos y proyectos inspiradores a largo y corto plazo. <strong>El líder pues, apuesta por lo que pueden llegar a ser las personas del equipo y no por lo que son</strong>, es decir, no mira la situación actual de la persona, sino que la ve transformada en algo positivo que entregará y aportará al equipo.</p><p>El <strong>líder</strong> debe tener <strong>clara la visión de cómo llegar a la meta de los retos y los proyectos</strong>, para ello, debe generar estrategias con un grupo mínimo de confianza y fieles en el grupo, o de manera democrática con todo el plantel, pero que en todo momento, él dirija todo el debate. Esto también se traduce a pedir opiniones a los demás miembros.</p><p> </p><p>Cuando el <strong>líder</strong> tenga la decisión tomada para alcanzar las metas, su deber es <strong>motivar al plantel</strong> general que conforma al grupo, y también, designar tareas a su grupo selecto de confianza y fidelidad para que ellos también entreguen motivación a los demás miembros.</p><p><em>-Cuando un líder llega a un lugar nuevo (no tiene grupo de confianza y fidelidad) las decisiones tienen que ser tomadas con claridad y transparencia, hablar con los miembros, y asignar proyectos y metas a corto plazo para conocer al grupo en sus labores.-</em></p>"
+		}, {
+		"id": 3,
+		"titulo": "Adhesión a la visión",
+		"imagen": "1b.png",
+		"manda": "contenidof",
+		"titora": "Adhesión a la visión",
+		"titora2": "",
+		"imagenf": "vision.png",
+		"ora": "<p>Posteriormente a que el líder haya generado una visión estimulante y motivacional para alcanzar las metas a largo y corto plazo, el siguiente paso es<strong>generar adhesión a las personas para que sigan la visión</strong>.</p><p>El principal error de los líderes es que les dicen a las personas cómo hacer las cosas de una forma cuadrada y sin opción de otra vía. El verdadero reto de un líder es <strong>generar contextos creativos y estimulantes</strong> donde las personas puedan probarse y retarse para ver la capacidad de cada uno.</p><p>Es esencial hacer charlas motivacionales y crear proyectos que tengan estrategia para avanzar y dejarles claro dónde se debe llegar como equipo. <strong>La adhesión implica compromiso por parte del personal</strong>, y con ello, esto requiere que las personas asuman a enfrentarse a aquellas situaciones de aprendizaje que les genera miedo e inseguridad.</p><p>Es importante que tanto el grupo selecto como el grupo en general tenga confianza en el líder; charlar con ellos de manera personal, entregar palabras de apoyo y motivación, estar presente en cada momento que una persona o el grupo lo necesite, NO ser ambiguo en lo que se dice, ni tampoco hablar con inseguridad, siempre hablar con proyección positiva.</p>"
+	}, {
+			"id": 4,
+			"titulo": "Práctica y seguimiento de la visión",
+			"imagen": "2b.png",
+			"manda": "contenidof",
+			"titora": "Práctica y seguimiento de la visión",
+			"titora2": "",
+			"imagenf": "practica.jpg",
+			"ora": "<p>Para llevar a la práctica la visión, es necesario definir, y que los miembros tengan claro los objetivos y las estrategias que se usarán para alcanzar una meta. Hay que dejar claro desde un principio que las acciones tienen que responder a la estrategia. <strong>No es cuestión de hacer muchas cosas, sino de hacer lo adecuado en el momento correcto.</strong></p><p>Luego de hacer el plan de acción para alcanzar las metas de la visión, <strong>es necesario hacer un seguimiento constante</strong> del 'cómo se comenzó' al 'cómo vamos ahora' a través de un canal adecuado y demostrar el avance con hechos, evidencias y datos concretos.</p><p>El líder debe ser claro, específico, y muchas veces, recordar a los integrantes del equipo que ellos son parte fundamental del grupo, no por un tema de mejorar su autoestima, sino porque realmente es así, cada miembro aporta lo que debe saber y el líder debe resaltar eso. </p><p>Como algo ético, el líder debe contar con un buen estado anímico para contribuir en su labor de motivación junto con su equipo selecto, además de seleccionar sus palabras con cautela, pues gran mayoría de los miembros se afirmarán de los dichos del líder.</p>"
+		}, {
+			"id": 5,
+			"titulo": "El líder moviliza al equipo",
+			"imagen": "2b.png",
+			"manda": "contenidof",
+			"titora": "El líder moviliza al equipo",
+			"titora2": "",
+			"imagenf": "lider.jpg",
+			"ora": "<p>Hay que dejar claro que <strong>el líder debe ver más allá de los resultados</strong>, debe ver a las personas que hacen posible los resultados, para ello, es importante que el líder se sienta capaz de proteger, conservar, cuidar, guiar y aconsejar a los miembros del equipo.</p><p>Para conseguir los resultados esperados y propuestos <strong>es necesario que el líder tome el papel de mentor frente a los miembros del equipo</strong>, ya que será necesario comenzar a formar a las personas para que juntos se lleguen a los objetos. El proceso de formación se debe hacer de acuerdo a lo que se esté realizando y a lo que se quiere llegar, hay que proponer desafíos tanto grupales como individuales. </p><p>Nuevamente resalto que <strong>el líder debe cuidar y proteger el estado de ánimo de los miembros de su equipo general</strong>.</p>"
+		}, {
+			"id": 6,
+			"titulo": "Conseguir resultados",
+			"imagen": "2b.png",
+			"manda": "contenidof",
+			"titora": "Conseguir resultados",
+			"titora2": "",
+			"imagenf": "resultados.jpg",
+			"ora": "<p>Cuando el líder está constantemente revisando el proceso de objetivos hacia las metas con la visión, mira los objetivos que se cursan para conseguir el resultado, ya que hay que asegurar el éxito de cada proceso.</p><p>Hay maneras de conseguir los resultados, como por ejemplo: a través del miedo, en la que perdemos la auctoritas y nos quedamos con el poder formal, dejamos por un momento ser líderes, para ser jefes. Cuando utilizamos el miedo incapacitamos a las personas para que desarrollen sus talentos para cumplir los objetos de manera mas cuadrada. Los líderes se apoyan en la confianza, para ello, deben hacer participe a los miembros del grupo para dejar claro que si el proyecto avanza con éxito, ellos igual avanzan con éxito, tienen que tener (al igual que el líder) la percepción de que todo avanza gracias al esfuerzo de cada uno.</p><p><strong>La gestión del equipo a través del líder pasa por tres variantes</strong>: el líder debe tener <strong>conocimiento </strong>respecto a lo que está haciendo y dónde quiere llegar. El líder debe tener la <strong>confianza </strong>de su equipo y debe tener en él su confianza, no puede ser inseguro. El líder debe tener la <strong>motivación </strong>necesaria para motivar y cubrir a los demás miembros.</p>"
+		}, {
+			"id": 7,
+			"titulo": "El talento personal",
+			"imagen": "2b.png",
+			"manda": "contenidof",
+			"titora": "El talento personal",
+			"titora2": "",
+			"imagenf": "talento.jpg",
+			"ora": "<p>Los <strong>talentos</strong>, tanto personales como de nuestro equipo, deben ser grandes potencialidades para el grupo al que desarrollamos, y se deben ocupar conforme a los objetivos que deseamos alcanzar.</p><p>Nuestro sistema educativo pone el foco en arreglar aquellas cosas en las que no somos buenos, tiende a nivelar a todos por igual. Constantemente estamos intentando corregir las debilidades, pero no nos refuerzan en lo que somos buenos. Para encontrar el talento de cada uno es necesario que se medite un tiempo en lo que reforzamos de mejor manera en el día a día, qué es lo que más practicamos con gusto, el talento es la mejor versión de nosotros mismos.</p><p>El talento se dice que está vinculado a un concepto innato, único y exclusivo de algunos pocos, y no todo el mundo lo tiene. Muchas personas no saben en lo que son buenos (es culpa de la sociedad), les da vergüenza hablar sobre sus talentos, se tiene temor de hablar de sus atributos por miedo al rechazo, a parecer egocéntrico, etc... no obstante, las cosas que son negativas se pueden encontrar con mayor rapidez y da menos temor que hablar de los atributos.</p><p>Es importante entonces, mejorar la calidad de los talentos de cada persona, pues es esencial reforzarlos en aquellas áreas para sacar lo mejor de ellos. El elemento indispensable y el factor clave para ir mejorando el talento es la confianza en sí mismos.</p>"
+		}, {
+			"id": 8,
+			"titulo": "Compromiso del equipo",
+			"imagen": "2b.png",
+			"manda": "contenidof",
+			"titora": "Compromiso del equipo",
+			"titora2": "",
+			"imagenf": "compromiso.jpg",
+			"ora": "<p>Una de las dificultades mas frecuentes por la que deben pasar los líderes es la falta de compromiso de algunos miembros del equipo. <strong>Los líderes, cuando gestionan grupos deben conseguir que las personas se comprometan y se vinculen fuertemente con los proyectos que hay que realizar</strong>. <strong>Aquí juegan un papel fundamental el talento y la confianza</strong>. El <strong>talento</strong> porque hay que posicionar a la persona en un lugar que le guste para cooperar con el proceso de éxito del equipo, con ello, el líder deberá ganarse la confianza de la persona a medida que el tiempo transcurre.</p><p>'La <strong>confianza</strong> es la puerta de entrada del compromiso'.</p><p>Hay <strong>tres acciones que sirven para ganar la confianza de la(s) persona(s)</strong>y ser un buen líder de grupos grandes.</p><p>1) <strong>Ser coherente</strong>: que no exista ningún error en lo que digo y lo que hago, si digo algo, lo debo realizar como lo dije.</p><p>2) <strong>Ser predecible</strong>: mientras yo sea predecible para otras personas, las personas confiarán en lo que haré y podrán actuar por su cuenta sin la necesidad de hablarles.</p><p>3) <strong>Tener capacidad</strong>: tener efectividad en los proyectos y metas que se han puesto, no quedar a mitad de camino, tener conocimiento y confianza conmigo mismo.</p>"
+		}, {
+			"id": 9,
+			"titulo": "Los valores del líder",
+			"imagen": "2b.png",
+			"manda": "contenidof",
+			"titora": "Los valores del líder",
+			"titora2": "",
+			"imagenf": "valores.jpg",
+			"ora": "<p><strong>Los valores son aspectos innegociables</strong>, son la esencia de cómo nos formamos desde pequeños hasta adultos con un gran nivel ético y moral que repercute en nuestra forma de ser. Los valores nos identifican como personas, y hasta nos acercan o alejan del resto. Por ejemplo, un valor de una persona es 'Ser responsable', y tiene un compañero que es irresponsable, la persona del valor responsable no querrá acercarse mucho al otro porque no comparten ese valor que para la persona es importante.</p><p><strong>Existen cinco valores de gran importancia que se debe traspasar a través del líder a su equipo</strong> selecto para que lo comiencen a practicar, y luego entre todos, tanto el líder como el grupo selecto, se intenta traspasar al grupo en general (si no se tiene grupo selecto se pasa directamente al grupo en general). Los cinco valores de gran importancia son: <strong>excelencia, liderazgo, integridad, trabajo en equipo y espíritu emprendedor</strong>, los cuales serán definidos en las siguientes lecciones.</p>"
+		}, {
+			"id": 10,
+			"titulo": "Valor; Excelencia",
+			"imagen": "2b.png",
+			"manda": "contenidof",
+			"titora": "Valor; Excelencia",
+			"titora2": "",
+			"imagenf": "excelencia.jpg",
+			"ora": "<p>El <strong>valor de la excelencia</strong> hace referencia a poner el foco en el proceso. Hablar de excelencia es hablar de <strong>maestría</strong>, al igual que se relaciona con ser principiante e ir aprendiendo constantemente (<strong>espíritu de superación</strong>). Se trata de ir cada vas mas lejos de donde se llegó, hasta nuestros limites. La excelencia se vincula con el talento, ya que está permanentemente aprendiendo de otros talentos, se rodea de personas estimulantes y que sirven para mejorar cada día.</p>"
+		}, {
+			"id": 11,
+			"titulo": "Valor; Liderazgo",
+			"imagen": "2b.png",
+			"manda": "contenidof",
+			"titora": "Valor; Liderazgo",
+			"titora2": "",
+			"imagenf": "liderazgo.jpg",
+			"ora": "<p>Es un valor que dispone de una visión estimulante. El líder no nace ni se hace, <strong>el líder se forja</strong>. Se enfrenta a sus situaciones complejas, acepta y apuesta por las personas como un material valioso para transformar un grupo, y hasta una sociedad. Las dificultades y problemas no se entienden como algo negativo, sino como un desafío en donde se puede crecer y aprender.</p>"
+		}, {
+			"id": 12,
+			"titulo": "Valor; Integridad",
+			"imagen": "2b.png",
+			"manda": "contenidof",
+			"titora": "Valor; Integridad",
+			"titora2": "",
+			"imagenf": "integridad.jpg",
+			"ora": "<p>Este valor es <strong>fundamental</strong>. Las personas integras <strong>respetan, aceptan y compiten bajo una serie de reglas</strong>, no intentan ser superiores o ganar cosas con engaños y trampas. Esto los hace ser valientes, enfrentan el miedo de manera íntegra. La integridad nos implica estár conectados con la sociedad, ya que hay que ser sensible a las injusticias sociales, se lucha por la igualdad de oportunidades y justicia entre todos.</p>"
+		}, {
+			"id": 13,
+			"titulo": "Valor; Trabajo en equipo",
+			"imagen": "2b.png",
+			"manda": "contenidof",
+			"titora": "Valor; Trabajo en equipo",
+			"titora2": "",
+			"imagenf": "equipo.jpg",
+			"ora": "<p>El valor del trabajo en equipo no se hace con las mejores personas, sino con las personas adecuadas. Trabajar en equipo nos habla de que los ritmos del trabajo los marcan las personas más lentas, y es importante estimular y acelerar a esas personas a través de la <strong>confianza, paciencia y motivación</strong>. Trabajar en equipo necesita actos de generosidad como cubrir al equipo, resolver problemas juntos y tener <strong>compañerismo</strong>. Este valor tiene que ver con el talento, ya que hay que prestarle el talento al equipo. Es importante alentar, proteger y cuidar los atributos positivos de cada persona, ya que todos buscan los mismos resultados positivos para el equipo y deben entregar lo mejor de cada uno.</p>"
+		}, {
+			"id": 14,
+			"titulo": "Valor; Espíritu emprendedor",
+			"imagen": "2b.png",
+			"manda": "contenidof",
+			"titora": "Valor; Espíritu emprendedor",
+			"titora2": "",
+			"imagenf": "emprendedor.jpg",
+			"ora": "<p>El espíritu emprendedor es tener una <strong>actitud valiente frente a la vida y sus obstáculos</strong>. <strong>No existe el fracaso, sino que existen las situaciones de aprendizaje</strong>. A veces acertamos y otras veces aprendemos. Las personas de este valor tienen un <strong>pensamiento crítico permanente</strong>, cuestionan muchas cosas de manera positiva y están sedientos por mejorar su aprendizaje. El espíritu emprendedor busca el <em>kairós </em>(espacio de oportunidad) y el <em>kaizen </em>(la continuación de seguir mejorando). Este valor nos habla fuertemente de tomar decisiones correctas. </p>"
+		}, {
+			"id": 15,
+			"titulo": "Etapas de un equipo",
+			"imagen": "2b.png",
+			"manda": "contenidof",
+			"titora": "Etapas de un equipo",
+			"titora2": "",
+			"imagenf": "equipoe1.jpg",
+			"ora": "<p><strong>Etapa 1.</strong> <strong>Forming</strong>:</p><p>Es el primer momento en que el líder y el equipo se conocen y tienen contacto, es ahí donde inmediatamente se comienza a hablar del propósito, el 'para qué' y el 'por qué' están en aquel lugar. Se plantea la visión de manera general que hay que estar repitiendo constantemente. Hay que dejar en claro los valores innegociables del equipo y los límites de este. En esta etapa el líder debe estar centrado en motivar y dejar claro todo lo que tiene que ver con los objetivos que se desean alcanzar.</p><p> </p><p><strong>Etapa 2. Storming</strong>:</p><p>Esta es la <strong>fase más compleja de la vida de un equipo</strong>, es aquí donde la mayor parte de los grupos pierde la posibilidad de acceder a ser un buen equipo de alto rendimiento. Una vez que el líder haya marcado los objetivos, viene el <strong>cómo hacer posible estos objetivos</strong>. Todos los miembros ya tienen sus hábitos desde antes, y cuando llega un líder nuevo y propone una manera diferente de hacer las cosas, lógicamente se complican, pues, les entran emociones y sentimientos como el miedo (¿Para qué cambiar?), la inseguridad (¿Será correcto?), etc. Habrá personas que se rebelen con la nueva visión, y si el grupo está en desunión se rompe cualquier posibilidad de crecer como equipo, pues, los miembros comienzan a saltarse reglas, el líder pierde confianza y autoridad, y ahí termina la posibilidad de alcanzar la siguiente etapa. <strong>En esta fase el líder debe tener un comportamiento mayoritariamente centrado en reforzar la confianza, los comportamientos positivos y anular a las personas que vayan en contra del proceso</strong>.</p><p> </p><p><strong>Etapa 3.</strong> <strong>Norming</strong>:</p><p>Esta fase es una fase diferente en la que los miembros ya han adquirido los nuevos hábitos puestos en la etapa anterior, pero aun no están cien por ciento maduros. <strong>Está caracterizado por la eficacia, pero aun no son eficientes</strong>. Se consiguen resultados, pero con un gasto de energía grande de cada miembro. En esta fase, los desafíos ya no van tanto dirigidos al equipo en general, sino al líder, pues ahora tiene que dar un paso al lado y dejar al grupo que haga lo que sabe hacer (que ya fue instruido en las dos etapas anteriores) de manera independiente. Los miembros no deben tener dependencia negativa con el líder, pues estos deben saber que es una relación de ayuda y trabajo en conjunto. Sin embargo, en esta etapa el líder fortalece lazos de confianza y saca a los miembros de sus zonas de confort para enseñarles nuevos retos y que así aprendan nuevas cosas.</p><p> </p><p><strong>Etapa 4.</strong> <strong>Performing</strong>:</p><p>Se caracteriza por la sencillez con lo que se realiza, aun sabiendo que es complejo. Ya hay un nivel de madurez elevado en los hábitos de los miembros, y pues, hay <strong>gran eficiencia en el grupo y se requiere un menor gasto de energía</strong>. Acá <strong>el líder tiene un rol delegatorio</strong>, apoya, empuja a lo positivo, anima con claridad y calidad a los miembros del equipo. Ya no es necesario entregar muchas palabras decorativas, sino que ahora tiene que ser potente, directo y fuerte, pues ya los miembros conocen el trabajo y de lo que son capaces. El equipo en esta etapa ya tiene su autonomía de manera natural.</p><p>Limpiar y comprimir archivos CSS para obtener un sitio web optimizado. Pruebe la colección de herramientas en línea gratuita con HTML cleaner.</p>"
+		}, {
+			"id": 16,
+			"titulo": "Talento colectivo",
+			"imagen": "2b.png",
+			"manda": "contenidof",
+			"titora": "Talento colectivo",
+			"titora2": "",
+			"imagenf": "colectivo.jpg",
+			"ora": "<p><strong>Es importante rodearnos</strong>, tanto el líder como los miembros del equipo, <strong>de gente que sea mejor que nosotros para mejorar y avanzar, aprender de ellos e ir capacitando cada vez de mejor manera al equipo</strong>, pues es muy importante tomar y practicar las cosas positivas de las demás personas y desechar lo negativo. El líder debe generar contextos estimulantes para que los miembros puedan aprender entre ellos a superar obstáculos y relacionarse con nuevos aprendizajes y metas. El factor clave es preparar a las personas que manejan mejor su talento para que puedan compartirlo con las personas que aún no controlan bien sus atributos, pues así, se generará compañerismo y crecerá el equipo en aprendizaje.</p>"
+		}, {
+			"id": 17,
+			"titulo": "Gestión del cambio",
+			"imagen": "2b.png",
+			"manda": "contenidof",
+			"titora": "Gestión del cambio",
+			"titora2": "",
+			"imagenf": "cambio.jpg",
+			"ora": "<p>El líder debe estar preparado para cambios tanto personales, como a nivel grupal, pues pasa por él que el equipo se afirme bien a los cambios que se generarán a través de la visión y las demandas que exijan los resultados. Existen <strong>etapas por las cuales se genera el cambio en una persona</strong>.</p><p>1) <strong>El shock</strong>: llega la noticia de forma sorpresiva a la vida de la persona, le dan a conocer algo, choca con el pensamiento del miembro.</p><p>2) <strong>La negación</strong>: hay incredulidad e incertidumbre, busca evidencias que no son verdaderas, trata de negar de alguna u otra forma la noticia que le dieron.</p><p>3) <strong>La f</strong><strong>rustración</strong>: se comienza a reconocer lo que está sucediendo, está comenzando a asimilar que se viene un cambio.</p><p>4) <strong>El bajo estado anímico</strong>: le falta energía, sabe que viene un cambio con mayor seguridad, pero no lo afronta de manera feliz, existe el miedo.</p><p>5) <strong>El experimentar</strong>: comienza el proceso inicial de conocer esta nueva forma de cambio con la nueva situación que hay en la vida del miembro.</p><p>6) <strong>La decisión</strong>: se aprende a trabajar con la nueva situación de manera más positiva y eficaz, ya se tomó el control de la situación.</p><p>7) <strong>La integración</strong>: los cambios se encuentran integrados en la cotidianidad de la persona, es un individuo renovado.</p><p> </p><p><strong>Un líder debe estar preparado para que los miembros del equipo puedan superar todos estos procesos de la manera más correcta y rápida posible</strong>, pues al quedarse atascado en una de ellas puede producir lentitud en el proceso de las metas, y hasta la salida de uno de los integrantes del equipo, producto de no superar los cambios.</p>"
+		}
+	]
+}
