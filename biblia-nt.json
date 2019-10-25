@@ -1,0 +1,165 @@
+{
+	"array": [{
+		"id": 0,
+		"tipo": "Nuevo Testamento",
+		"idnam": "Mateo",
+		"titulo": "EL EVANGELIO SEGÚN SAN MATEO",
+		"archivo": "mateo"
+	}, {
+		"id": 1,
+		"tipo": "Nuevo Testamento",
+		"idnam": "Marcos",
+		"titulo": "EL EVANGELIO SEGÚN SAN MARCOS",
+		"archivo": "marcos"
+	}, {
+		"id": 2,
+		"tipo": "Nuevo Testamento",
+		"idnam": "Lucas",
+		"titulo": "EL EVANGELIO SEGÚN SAN LUCAS",
+		"archivo": "lucas"
+	}, {
+		"id": 3,
+		"tipo": "Nuevo Testamento",
+		"idnam": "Juan",
+		"titulo": "EL EVANGELIO SEGÚN SAN JUAN",
+		"archivo": "juan"
+	}, {
+		"id": 4,
+		"tipo": "Nuevo Testamento",
+		"idnam": "Hechos",
+		"titulo": "HECHOS DE LOS APOSTOLES",
+		"archivo": "hechos"
+	}, {
+		"id": 5,
+		"tipo": "Nuevo Testamento",
+		"idnam": "Romanos",
+		"titulo": "LA EPÍSTOLA DEL APÓSTOL SAN PABLO A LOS ROMANOS ",
+		"archivo": "romanos"
+	}, {
+		"id": 6,
+		"tipo": "Nuevo Testamento",
+		"idnam": "1º de Corintios",
+		"titulo": "PRIMERA EPÍSTOLA DEL APÓSTOL SAN PABLO A LOS CORINTIOS ",
+		"archivo": "1corintios"
+	}, {
+		"id": 7,
+		"tipo": "Nuevo Testamento",
+		"idnam": "2º de Corintios",
+		"titulo": "SEGUNDA EPÍSTOLA DEL APÓSTOL SAN PABLO A LOS CORINTIOS ",
+		"archivo": "2corintios"
+	}, {
+		"id": 8,
+		"tipo": "Nuevo Testamento",
+		"idnam": "Gálatas",
+		"titulo": "LA EPÍSTOLA DEL APÓSTOL SAN PABLO A LOS GÁLATAS ",
+		"archivo": "galatas"
+	}, {
+		"id": 9,
+		"tipo": "Nuevo Testamento",
+		"idnam": "Efesios",
+		"titulo": "LA EPÍSTOLA DEL APÓSTOL SAN PABLO A LOS EFESIOS",
+		"archivo": "efesios"
+	}, {
+		"id": 10,
+		"tipo": "Nuevo Testamento",
+		"idnam": "Filipenses",
+		"titulo": "LA EPÍSTOLA DEL APÓSTOL SAN PABLO A LOS FILIPENSES",
+		"archivo": "filipenses"
+	}, {
+		"id": 11,
+		"tipo": "Nuevo Testamento",
+		"idnam": "Colosenses",
+		"titulo": "LA EPÍSTOLA DEL APÓSTOL SAN PABLO A LOS COLOSENSES",
+		"archivo": "colosenses"
+	}, {
+		"id": 12,
+		"tipo": "Nuevo Testamento",
+		"idnam": "1º de Tesalonicenses",
+		"titulo": "PRIMERA EPÍSTOLA DEL APÓSTOL SAN PABLO A LOS TESALONICENSES",
+		"archivo": "1tesalonicenses"
+	}, {
+		"id": 13,
+		"tipo": "Nuevo Testamento",
+		"idnam": "2º de Tesalonicenses",
+		"titulo": "SEGUNDA EPÍSTOLA DEL APÓSTOL SAN PABLO A LOS TESALONICENSES",
+		"archivo": "2tesalonicenses"
+	}, {
+		"id": 14,
+		"tipo": "Nuevo Testamento",
+		"idnam": "1º de Timoteo",
+		"titulo": "PRIMERA EPÍSTOLA DEL APÓSTOL SAN PABLO A TIMOTEO ",
+		"archivo": "1timoteo"
+	}, {
+		"id": 15,
+		"tipo": "Nuevo Testamento",
+		"idnam": "2º de Timoteo",
+		"titulo": "SEGUNDA EPÍSTOLA DEL APÓSTOL SAN PABLO A TIMOTEO ",
+		"archivo": "2timoteo"
+	}, {
+		"id": 16,
+		"tipo": "Nuevo Testamento",
+		"idnam": "Tito",
+		"titulo": "LA EPÍSTOLA DEL APÓSTOL SAN PABLO A TITO",
+		"archivo": "tito"
+	}, {
+		"id": 17,
+		"tipo": "Nuevo Testamento",
+		"idnam": "Filemón",
+		"titulo": "LA EPÍSTOLA DEL APÓSTOL SAN PABLO A FILEMÓN ",
+		"archivo": "filemon"
+	}, {
+		"id": 18,
+		"tipo": "Nuevo Testamento",
+		"idnam": "Hebreos",
+		"titulo": "LA EPÍSTOLA A LOS HEBREOS",
+		"archivo": "hebreos"
+	}, {
+		"id": 19,
+		"tipo": "Nuevo Testamento",
+		"idnam": "Santiago",
+		"titulo": "LA EPÍSTOLA UNIVERSAL DE SANTIAGO",
+		"archivo": "santiago"
+	}, {
+		"id": 20,
+		"tipo": "Nuevo Testamento",
+		"idnam": "1º de Pedro",
+		"titulo": "PRIMERA EPÍSTOLA UNIVERSAL DE SAN PEDRO APÓSTOL",
+		"archivo": "1pedro"
+	}, {
+		"id": 21,
+		"tipo": "Nuevo Testamento",
+		"idnam": "2º de Pedro",
+		"titulo": "SEGUNDA EPÍSTOLA UNIVERSAL DE SAN PEDRO APÓSTOL",
+		"archivo": "2pedro"
+	}, {
+		"id": 22,
+		"tipo": "Nuevo Testamento",
+		"idnam": "1º de Juan",
+		"titulo": "PRIMERA EPÍSTOLA UNIVERSAL DE SAN JUAN APÓSTOL",
+		"archivo": "1juan"
+	}, {
+		"id": 23,
+		"tipo": "Nuevo Testamento",
+		"idnam": "2º de Juan",
+		"titulo": "SEGUNDA EPÍSTOLA UNIVERSAL DE SAN JUAN APÓSTOL",
+		"archivo": "2juan"
+	}, {
+		"id": 24,
+		"tipo": "Nuevo Testamento",
+		"idnam": "3º de Juan",
+		"titulo": "TERCERA EPÍSTOLA UNIVERSAL DE SAN JUAN APÓSTOL",
+		"archivo": "3juan"
+	}, {
+		"id": 25,
+		"tipo": "Nuevo Testamento",
+		"idnam": "Judas",
+		"titulo": "LA EPÍSTOLA UNIVERSAL DE SAN JUDAS APÓSTOL",
+		"archivo": "judas"
+	}, {
+		"id": 26,
+		"tipo": "Nuevo Testamento",
+		"idnam": "Apocalipsis",
+		"titulo": "EL APOCALIPSIS DE SAN JUAN",
+		"archivo": "apocalipsis"
+	}]
+}
