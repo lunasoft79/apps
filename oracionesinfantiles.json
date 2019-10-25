@@ -1,0 +1,110 @@
+{
+"oraciones":
+[
+{
+"id":0,
+"nombre": "Oración al Niño Jesús",
+"oracion":"Jesusito de mi vida,<br />tu eres niño como yo,<br />por eso te quiero tanto<br />y te doy mi corazón,<br />tómalo, tómalo,<br />tuyo es mío no."
+},
+{
+"id":1,
+"nombre": "Oración a los ángeles antes de dormir",
+"oracion":"Cuatro esquinitas tiene mi cama,<br />cuatro angelitos que me la guardan,<br />dos a los pies, y dos a la cabecera<br />y la Virgen María a mi delantera<br />que me dice duerme y reposa<br />no tengas miedo de ninguna cosa<br />que yo te guardaré de noche y de día<br />siempre que reces un Ave María."
+},
+{
+"id":2,
+"nombre": "Oración al ángel de la guarda",
+"oracion":"Ángel de mi guarda,<br />dulce compañía,<br />no me desampares<br />ni de noche ni de día;<br />si me desamparas<br />¡qué será de mí!,<br />ángel de mi guarda<br />ruega a Dios por mí."
+},
+{
+"id":3,
+"nombre": "Oración de la mañana",
+"oracion":" Señor Jesús, te doy gracias<br />por este día que empieza.<br />Te pido que estés conmigo<br />durante todo el día;<br />y que me enseñes<br />a querer a todos<br />como tú me quieres.<br />Amén"
+},
+{
+"id":4,
+"nombre": "Oración de la noche",
+"oracion":" Señor Jesús,<br />cuando el día ya termina,<br />y llega la noche,<br />te doy gracias por las alegrías<br />que he tenido hoy;<br />y te pido perdón por las veces<br />que he hecho sufrir a los demás.<br />Señor Jesucristo,<br />guárdame durante esta noche,<br />guarda a mis padres y hermanos,<br />guarda a mis familiares y amigos.<br />Y enséñame a quererte cada día más."
+},
+{
+"id":5,
+"nombre": "Oración de un niño",
+"oracion":" Jesús,<br />acuérdate de mis amigos.<br />Te doy gracias por todos ellos.<br />Son muy buenos<br />y los quiero mucho.<br />Protégelos y cuídalos.<br />Acompáñalos siempre<br />de día y de noche<br />y en todas partes.<br />Que gocen de buena salud<br />y crezcan sanos.<br />Si alguno se enferma. Señor,<br />ayuda a que sane pronto.<br />Te pido por las familias de mis amigos,<br />sus padres, hermanos, abuelos,<br />que todos estén bien.<br />Cuida mucho a mis amigos,<br />y que aprendamos a vivir<br />cada día más unidos.<br />Amen"
+},
+{
+"id":6,
+"nombre": "Oración para bendecir la mesa",
+"oracion":" Bendito seas, Señor, Dios del universo,<br />por estos alimentos,<br />fruto de la tierra y del trabajo del hombre,<br />que hemos recibido de tu bondad<br />y ahora vamos a compartir.<br />Amen"
+},
+{
+"id":7,
+"nombre": "Oración para dar gracias",
+"oracion":" Señor Jesús,<br />estoy contento por muchas cosas<br />y te doy gracias<br />por todo lo bueno que me has dado.<br />Pero te doy gracias, sobre todo,<br />porque estás siempre conmigo,<br />como un amigo que nunca falla.<br />Gracias, Señor."
+},
+{
+"id":8,
+"nombre": "Oración Al Espíritu Santo",
+"oracion":" Ven, Espíritu Santo,<br />lléname con tu luz,<br />para que el Padre me mire<br />y me parezca a Jesús."
+},
+{
+"id":9,
+"nombre": "Ayudando a mamá",
+"oracion":" En las cosas de la casa,<br />Virgen Sagrada María,<br />quiero ayudar a mi mami<br />como a ti te ayudaría."
+},
+{
+"id":10,
+"nombre": "Para ser sincero",
+"oracion":" Hazme, Virgen María,<br />muy sincero y transparente,<br />dame un corazón limpio<br />como el agua de una fuente."
+},
+{
+"id":11,
+"nombre": "Ordenando la habitación",
+"oracion":" Para que tú estés a gusto,<br />Señor, en mi habitación,<br />ordeno todas mis cosas<br />y ordeno mi corazón."
+},
+{
+"id":12,
+"nombre": "Oración de las eñes",
+"oracion":" Tú, Señor, que fuiste niño<br />y que siempre me acompañas,<br />a ti, que nunca me engañas<br />y me tratas con cariño,<br />te ofrezco mis pocos años<br />te ofrezco mis muchos sueños,<br />líbrame de todo daño,<br />porque tú eres mi Dueño."
+},
+{
+"id":13,
+"nombre": "En la cama mientras te duermes",
+"oracion":" Méceme, Virgen María,<br />quiero dormirme en tus brazos,<br />guárdame, oh Madre mía,<br />con Jesús en tu regazo."
+},
+{
+"id":14,
+"nombre": "Oración del canguro",
+"oracion":" ¡Arriba, Jesús! ¡Arriba!<br />Contigo yo me levanto,<br />contigo comienzo el día,<br />con el Espíritu Santo<br />y con la Virgen María."
+},
+{
+"id":15,
+"nombre": "Para sonreír",
+"oracion":" Hazme Señor, que me ría<br />y no pierda la alegría,<br />ja, ja, ja.<br />Cuando hay penas, ¿qué más da?<br />porque tú eres mi papá,<br />y mi mamá es María."
+},
+{
+"id":16,
+"nombre": "Para poner la mesa",
+"oracion":" Oh Virgen de Nazaret,<br />que ponías el comedor<br />para Jesús y José,<br />quiero ponerlo contigo<br />con cariño y por amor,<br />para que estemos unidos<br />y todo sepa mejor."
+},
+{
+"id":17,
+"nombre": "Para hacer los deberes",
+"oracion":" Para ti, Señor de mi alma<br />por ti, que tanto me quieres<br />me pongo a hacer los deberes,<br />con ilusión y con calma<br />Y porque tú eres mi amigo<br />te ofrezco todo, Jesús,<br />quiero trabajar contigo,<br />a tu lado y como tú."
+},
+{
+"id":18,
+"nombre": "Recogiendo la habitación",
+"oracion":" Oh Virgen pura y hermosa<br />guárdame en tu corazón<br />mientras yo guardo mis cosas<br />y ordeno mi habitación."
+},
+{
+"id":19,
+"nombre": "Para abrir la puerta",
+"oracion":" A ti quiero abrirte,<br />Jesús, que me llamas,<br />y abriendo esta puerta,<br />te abro mi alma."
+},
+{
+"id":20,
+"nombre": "El sí de María",
+"oracion":" Virgen santa María,<br />tú que dijiste que sí,<br />ayúdame a hacer siempre<br />lo que Dios me pide a mí."
+}
+]
+}
