@@ -1,0 +1,511 @@
+{
+  "papa": [{
+      "id": 0,
+      "titulo": "La alegría y la evangelización",
+      "frases": [{
+          "id": 0,
+          "frase": "En esta exhortación quiero dirigirme a los fieles cristianos para invitarlos a una nueva etapa evangelizadora marcada por la alegría"
+        },
+        {
+          "id": 1,
+          "frase": "El gran riesgo del mundo actual, con su múltiple y abrumadora oferta de consumo, es una tristeza individualista que brota del corazón cómodo y avaro, de la búsqueda enfermiza de placeres superficiales, de la conciencia aislada"
+        },
+        {
+          "id": 2,
+          "frase": "Insisto una vez más: Dios no se cansa nunca de perdonar, somos nosotros los que nos cansamos de acudir a su misericordia"
+        },
+        {
+          "id": 3,
+          "frase": "Hay que vivir con alegría las pequeñas cosas de la vida cotidiana… No te prives de pasar un buen día"
+        },
+        {
+          "id": 4,
+          "frase": "Comprendo a las personas que tienden a la tristeza por sufrir graves dificultades, pero poco a poco hay que permitir que la alegría de la fe comience a despertarse, aun en medio de las peores angustias"
+        },
+        {
+          "id": 5,
+          "frase": "La sociedad tecnológica ha logrado multiplicar las ocasiones de placer, pero encuentra muy difícil engendrar la alegría"
+        },
+        {
+          "id": 6,
+          "frase": "Puedo decir que los gozos más bellos y espontáneos que he visto en mi vida son los de personas muy pobres que tienen poco a qué aferrarse"
+        },
+        {
+          "id": 7,
+          "frase": "Quien quiera vivir con dignidad y plenitud no tiene otro camino más que reconocer al otro y buscar su bien"
+        },
+        {
+          "id": 8,
+          "frase": "La vida se acrecienta dándola y se debilita en el aislamiento y la comodidad. Madura a la vez que nos damos a los otros"
+        },
+        {
+          "id": 9,
+          "frase": "Jesucristo también puede romper los esquemas aburridos en los cuales pretendemos encerrarlo y nos sorprende con su constante creatividad divina"
+        },
+        {
+          "id": 10,
+          "frase": "Todos tienen derecho de recibir el Evangelio y los cristianos tienen el deber de anunciarlo sin excluir a nadie."
+        },
+        {
+          "id": 11,
+          "frase": "La Iglesia no crece por proselitismo sino por atracción"
+        },
+        {
+          "id": 12,
+          "frase": "La actividad misionera representa aún hoy día el mayor desafío para la Iglesia y la causa misionera debe ser la primera"
+        },
+        {
+          "id": 13,
+          "frase": "No es conveniente que el Papa reemplace a los episcopados locales en el discernimiento de todas las problemáticas que se plantean en sus territorios. En este sentido, percibo la necesidad de avanzar en una saludable descentralización"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "titulo": "La transformación misionera de la iglesia",
+      "frases": [{
+          "id": 0,
+          "frase": "Es vital que hoy la Iglesia salga a anunciar el Evangelio a todos, en todos los lugares, en todas las ocasiones, sin demoras, sin asco y sin miedo"
+        },
+        {
+          "id": 1,
+          "frase": "Los evangelizadores tienen olor a 'oveja' y éstas escuchan su voz"
+        },
+        {
+          "id": 2,
+          "frase": "Espero que todas las comunidades procuren poner los medios necesarios para avanzar en el camino de una conversión pastoral y misionera, que no puede dejar las cosas como están. Ya no nos sirve una simple administración"
+        },
+        {
+          "id": 3,
+          "frase": "Toda la renovación de la Iglesia consiste esencialmente ,en el aumento de la fidelidad a su vocación. Sin vida nueva y auténtico espíritu evangélico, cualquier estructura nueva se corrompe en poco tiempo"
+        },
+        {
+          "id": 4,
+          "frase": "Sueño con una opción misionera capaz de transformarlo todo, para que las costumbres, los estilos, los horarios, el lenguaje y toda estructura eclesial se convierta en un cauce adecuado para la evangelización del mundo actual más que para la autopreservación"
+        },
+        {
+          "id": 5,
+          "frase": "La parroquia tiene que estar en contacto con los hogares y con la vida del pueblo, y no puede convertirse en una prolija estructura separada de la gente o en un grupo de selectos que se miran a sí mismos"
+        },
+        {
+          "id": 6,
+          "frase": "El obispo estará a veces delante para indicar el camino y cuidar la esperanza del pueblo, otras veces estará simplemente en medio de todos con su cercanía sencilla y misericordiosa, y en ocasiones deberá caminar detrás del pueblo para ayudar a los rezagados"
+        },
+        {
+          "id": 7,
+          "frase": "Dado que estoy llamado a vivir lo que pido a los demás, también debo pensar en una conversión del papado"
+        },
+        {
+          "id": 8,
+          "frase": "Una excesiva centralización, más que ayudar, complica la vida de la Iglesia y su dinámica misionera"
+        },
+        {
+          "id": 9,
+          "frase": "Invito a todos a ser audaces y creativos en esta tarea de repensar los objetivos, las estructuras, el estilo y los métodos evangelizadores de las propias comunidades. Exhorto a todos a aplicar con generosidad y valentía las orientaciones de este documento, sin prohibiciones ni miedos"
+        },
+        {
+          "id": 10,
+          "frase": "Las obras de amor al prójimo son la manifestación externa más perfecta de la gracia interior del Espíritu"
+        },
+        {
+          "id": 11,
+          "frase": "Si un párroco a lo largo de un año litúrgico habla diez veces sobre la templanza y sólo dos o tres veces sobre la caridad o la justicia, se produce una desproporción donde las que se ensombrecen son precisamente aquellas virtudes que deberían estar más presentes en la predicación y en la catequesis. Lo mismo sucede cuando se habla más de la ley que de la gracia, más de la Iglesia que de Jesucristo, más del Papa que de la Palabra de Dios"
+        },
+        {
+          "id": 12,
+          "frase": "Necesitamos expresar las verdades de siempre en un lenguaje que permita advertir su permanente novedad (…) Una cosa es la sustancia, y otra la manera de formular su expresión."
+        },
+        {
+          "id": 13,
+          "frase": "A los sacerdotes les recuerdo que el confesionario no debe ser una sala de torturas sino el lugar de la misericordia del Señor que nos estimula a hacer el bien posible"
+        },
+        {
+          "id": 14,
+          "frase": "La Iglesia está llamada a ser siempre la casa abierta del Padre. Uno de los signos concretos de esa apertura es tener templos con las puertas abiertas en todas partes. Que nadie encuentre la frialdad de una puerta cerrada"
+        },
+        {
+          "id": 15,
+          "frase": "Pero hay otras puertas que no se deben cerrar. Todos pueden participar de alguna manera en la vida eclesial, todos pueden integrar lacomunidad"
+        },
+        {
+          "id": 16,
+          "frase": "Y tampoco las puertas de los sacramentos deben cerrarse por una razón cualquiera (…) La Eucaristía no es un premio para los perfectos sino un generoso remedio y un alimento para los débiles"
+        },
+        {
+          "id": 17,
+          "frase": "A menudo nos comportamos como controladores de la gracia y no como facilitadores. Pero la Iglesia no es una aduana, es la casa paterna donde hay lugar para cada uno con su vida a cuestas"
+        },
+        {
+          "id": 18,
+          "frase": "Los pobres son los destinatarios privilegiados del Evangelio. Hay que decir sin vueltas que existe un vínculo inseparable entre nuestra fe y los pobres. Nunca los dejemos solos"
+        },
+        {
+          "id": 19,
+          "frase": "Prefiero una Iglesia accidentada, herida y manchada por salir a la calle, antes que una Iglesia enferma por el encierro y la comodidad de aferrarse a las propias seguridades"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Desafíos en el mundo actual",
+      "frases": [{
+          "id": 0,
+          "frase": "La humanidad vive un giro histórico… Son de alabar los avances que contribuyen al bienestar… Pero no podemos olvidar que la mayoría de los hombres y mujeres vive precariamente el día a día… El miedo y la desesperación se apoderan del corazón de numerosas personas, incluso en los llamados países ricos"
+        },
+        {
+          "id": 1,
+          "frase": "La alegría de vivir frecuentemente se apaga, la falta de respeto y la violencia crecen, la inequidad es cada vez más patente. Hay que luchar para vivir y, a menudo, para vivir con poca dignidad"
+        },
+        {
+          "id": 2,
+          "frase": "No puede ser que no sea noticia que muere de frío un anciano en situación de calle y que sí lo sea una caída de dos puntos en la bolsa"
+        },
+        {
+          "id": 3,
+          "frase": "La cultura del bienestar nos anestesia y perdemos la calma si el mercado ofrece algo que todavía no hemos comprado, mientras todas esas vidas truncadas por falta de posibilidades nos parecen un mero espectáculo que de ninguna manera nos altera"
+        },
+        {
+          "id": 4,
+          "frase": "La adoración del antiguo becerro de oro ha encontrado una versión nueva y despiadada en el fetichismo del dinero y en la dictadura de la economía sin un rostro y sin un objetivo verdaderamente humano"
+        },
+        {
+          "id": 5,
+          "frase": "El afán de poder y de tener no conoce límites"
+        },
+        {
+          "id": 6,
+          "frase": "No compartir con los pobres los propios bienes es robarles y quitarles la vida. No son nuestros los bienes que tenemos, sino suyos"
+        },
+        {
+          "id": 7,
+          "frase": "¡El dinero debe servir y no gobernar! El Papa ama a todos, ricos y pobres, pero tiene la obligación, en nombre de Cristo, de recordar que los ricos deben ayudar a los pobres, respetarlos, promocionarlos"
+        },
+        {
+          "id": 8,
+          "frase": "Os exhorto a la solidaridad desinteresada y a una vuelta de la economía y las finanzas a una ética en favor del ser humano"
+        },
+        {
+          "id": 9,
+          "frase": "Cuando la sociedad abandona en la periferia a una parte de sí misma, no habrá programas políticos ni recursos policiales o de inteligencia que puedan asegurar indefinidamente la tranquilidad. Y no solo porque la inequidad provoca la reacción violenta de los excluidos, sino porque el sistema social y económico es injusto en su raíz"
+        },
+        {
+          "id": 10,
+          "frase": "En la cultura predominante el primer lugar está ocupado por lo exterior, lo inmediato, lo visible, lo rápido, lo superficial, lo provisorio,. Lo real cede lugar a la apariencia. Las raíces se deterioran con la invasión de otras culturas económicamente desarrolladas pero éticamente debilitadas"
+        },
+        {
+          "id": 11,
+          "frase": "Vivimos en una sociedad de la información que nos satura indiscriminadamente de datos, todos en el mismo nivel, y termina llevándonos a una tremenda superficialidad a la hora de plantear las cuestiones morales. Se vuelve necesaria una educación que enseñe a pensar críticamente y que ofrezca un camino de maduración en valores."
+        },
+        {
+          "id": 12,
+          "frase": "La familia atraviesa una crisis cultural profunda. El matrimonio tiende a ser visto como una mera forma de gratificación afectiva. Pero su aporte a la sociedad supera el nivel de emotividad. El matrimonio no procede del sentimiento amoroso efímero, sino de una unión de vida total"
+        },
+        {
+          "id": 13,
+          "frase": "Dios no se oculta a aquellos que lo buscan con un corazón sincero, aunque lo hagan a tientas, de manera imprecisa y difusa"
+        },
+        {
+          "id": 14,
+          "frase": "Nuestro dolor y nuestra vergüenza por los pecados de algunos miembros de la Iglesia, y por los propios, no deben hacer olvidar cuántos cristianos dan la vida por amor"
+        },
+        {
+          "id": 15,
+          "frase": "Llama la atención que aun quienes aparentemente poseen sólidas convicciones doctrinales y espirituales suelen caer en un estilo de vida que los lleva a aferrarse a seguridades económicas, o a espacios de poder y de gloria humana que se procuran por cualquier medio, en lugar de dar la vida por los  demás en la misión"
+        },
+        {
+          "id": 16,
+          "frase": "El inmediatismo ansioso de estos tiempos hace que los agentes pastorales no toleren fácilmente lo que signifique alguna contradicción, un aparente fracaso, una crítica, una cruz"
+        },
+        {
+          "id": 17,
+          "frase": "La mayor amenaza es el gris pragmatismo de la vida cotidiana… La fe se va desgastando y degenerando en mezquindad. Se desarrolla la psicología de la tumba, que poco a poco convierte a los cristianos en momias de museo… ¡No nos dejemos robar la alegría evangelizadora!"
+        },
+        {
+          "id": 18,
+          "frase": "Una de las tentaciones más serias que ahogan el fervor y la audacia es la conciencia de derrota que nos convierte en pesimistas quejosos y desencantados con cara de vinagre. Nadie puede emprender una lucha si de antemano no confía plenamente en el triunfo"
+        },
+        {
+          "id": 19,
+          "frase": "Estamos llamados a ser personas-cántaros para dar de beber a los demás. A veces el cántaro se convierte en una pesada cruz, pero fue precisamente en la cruz donde, traspasado, el Señor se nos entregó como fuente de agua viva. No nos dejemos robar la esperanza!"
+        },
+        {
+          "id": 20,
+          "frase": "¡Dios nos libre de una Iglesia mundana bajo ropajes espirituales o pastorales! Esta mundanidad asfixiante se sana tomándole el gusto al aire puro del Espíritu Santo"
+        },
+        {
+          "id": 21,
+          "frase": "El mundo está lacerado por las guerras y la violencia, o herido por un difuso individualismo que divide a los seres humanos y los enfrenta unos contra otros en pos del propio bienestar"
+        },
+        {
+          "id": 22,
+          "frase": "¡Atención a la tentación de la envidia! ¡Estamos en la misma barca y vamos hacia el mismo puerto! Pidamos la gracia de alegrarnos con los frutos ajenos, que son de todos"
+        },
+        {
+          "id": 23,
+          "frase": "Pidamos al Señor que nos haga entender la ley del amor. ¡Qué bueno es tener esta ley! ¡Cuánto bien nos hace amarnos los unos a los otros en contra de todo!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Más visibilidad a los laicos",
+      "frases": [{
+        "id": 0,
+        "frase": "La formación de laicos y la evangelización de los grupos profesionales e intelectuales constituyen un desafío pastoral importante"
+      }]
+    },
+    {
+      "id": 4,
+      "titulo": "Los jóvenes, callejeros de la fe",
+      "frases": [{
+          "id": 0,
+          "frase": "¡Qué bueno es que los jóvenes sean «callejeros de la fe», felices de llevar a Jesucristo a cada esquina, a cada plaza, a cada rincón de la tierra!"
+        },
+        {
+          "id": 1,
+          "frase": "No se pueden llenar los seminarios con cualquier tipo de motivaciones, y menos si éstas se relacionan con inseguridades afectivas, búsquedas de formas de poder, glorias humanas o bienestar económico"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "titulo": "El anuncio del evangelio",
+      "frases": [{
+          "id": 0,
+          "frase": "La Iglesia tiene que ser el lugar de la misericordia gratuita"
+        },
+        {
+          "id": 1,
+          "frase": "La nueva evangelización debe implicar un nuevo protagonismo de cada uno de los bautizados"
+        },
+        {
+          "id": 2,
+          "frase": "Hoy que la Iglesia quiere vivir una profunda renovación misionera, hay una forma de predicación que nos compete a todos como tarea cotidiana. Se trata de llevar el Evangelio a las personas que cada uno trata, tanto a los más cercanos como a los desconocidos"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "titulo": "Homilías más cortas",
+      "frases": [{
+          "id": 0,
+          "frase": "La homilía es la piedra de toque para evaluar la cercanía y la capacidad de encuentro de un Pastor con su pueblo"
+        },
+        {
+          "id": 1,
+          "frase": "La homilía no puede ser un espectáculo entretenido, no responde a la lógica de los recursos mediáticos, pero debe darle el fervor y el sentido a la celebración"
+        },
+        {
+          "id": 2,
+          "frase": "Si la homilía se prolongara demasiado, afectaría dos características de la celebración litúrgica: la armonía entre sus partes y el ritmo"
+        },
+        {
+          "id": 3,
+          "frase": "Aun las veces que la homilía resulte algo aburrida, si está presente un espíritu materno-eclesial, siempre será fecunda, así como los aburridos consejos de una madre dan fruto con el tiempo en el corazón de los hijos"
+        },
+        {
+          "id": 4,
+          "frase": "Con mucho cariño quiero recordar a los párrocos la necesidad de dedicar un tiempo de calidad a preparar las homilías"
+        },
+        {
+          "id": 5,
+          "frase": "Nos hace bien renovar cada día, cada domingo, nuestro fervor al preparar la homilía, y verificar si en nosotros mismos crece el amor por la Palabra que predicamos"
+        },
+        {
+          "id": 6,
+          "frase": "El predicador necesita también poner un oído en el pueblo, para descubrir lo que los fieles necesitan escuchar"
+        },
+        {
+          "id": 7,
+          "frase": "Recordemos que nunca hay que responder preguntas que nadie se hace; tampoco conviene ofrecer crónicas de la actualidad para despertar interés: para eso ya están los programas televisivos"
+        },
+        {
+          "id": 8,
+          "frase": "El mayor riesgo para un predicador es acostumbrarse a su propio lenguaje y pensar que todos los demás lo usan y lo comprenden espontáneamente"
+        },
+        {
+          "id": 9,
+          "frase": "Más que nunca, necesitamos hombres y mujeres para cuidar las ovejas que nos confían de los lobos que intentan disgregar el rebaño. Necesitamos escuchar más que oir"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "titulo": "La dimensión social de la iglesia",
+      "frases": [{
+          "id": 0,
+          "frase": "Evangelizar es hacer presente en el mundo el Reino de Dios"
+        },
+        {
+          "id": 1,
+          "frase": "Nuestra respuesta de amor a los demás no debería entenderse como una mera suma de pequeños gestos personales dirigidos a algunos individuos necesitados, lo cual podría constituir una «caridad a la carta», una serie de acciones tendentes sólo a tranquilizar la propia conciencia"
+        },
+        {
+          "id": 2,
+          "frase": "Buscad ante todo el reino de Dios y su justicia, y todo lo demás vendrá por añadidura"
+        },
+        {
+          "id": 3,
+          "frase": "Ni el Papa ni la Iglesia tienen el monopolio en la interpretación de la realidad social o en la propuesta de soluciones para los problemas contemporáneos"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "titulo": "Los pobres",
+      "frases": [{
+          "id": 0,
+          "frase": "Cada cristiano y cada comunidad están llamados a ser instrumentos de Dios para la liberación y promoción de los pobres, de manera que puedan integrarse plenamente en la sociedad; esto supone que seamos dóciles y atentos para escuchar el clamor del pobre y socorrerlo"
+        },
+        {
+          "id": 1,
+          "frase": "La palabra «solidaridad» está un poco desgastada y a veces se interpreta mal, pero es mucho más que algunos actos esporádicos de generosidad"
+        },
+        {
+          "id": 2,
+          "frase": "La solidaridad es una reacción espontánea de quien reconoce la función social de la propiedad y el destino universal de los bienes como realidades anteriores a la propiedad privada. La posesión privada de los bienes se justifica para cuidarlos y acrecentarlos de manera que sirvan mejor al bien común. La solidaridad debe vivirse como decisión de devolverle al pobre lo que le corresponde"
+        },
+        {
+          "id": 3,
+          "frase": "Viendo sus miserias, escuchando sus clamores y conociendo su sufrimiento, nos escandaliza el hecho de saber que existe alimento suficiente para todos y que el hambre se debe a la mala distribución de los bienes y de la renta"
+        },
+        {
+          "id": 4,
+          "frase": "El corazón de Dios tiene un sitio preferencial para los pobres, tanto que hasta Él mismo se hizo pobre"
+        },
+        {
+          "id": 5,
+          "frase": "Para la Iglesia la opción por los pobres es una categoría teológica antes que cultural, sociológica, política o filosófica"
+        },
+        {
+          "id": 6,
+          "frase": "Quiero una Iglesia pobre para los pobres. Ellos tienen mucho que enseñarnos"
+        },
+        {
+          "id": 7,
+          "frase": "Nadie debería decir que se mantiene lejos de los pobres porque sus opciones de vida implican prestar más atención a otros asuntos"
+        },
+        {
+          "id": 8,
+          "frase": "Molesta que se hable de ética, molesta que se hable de solidaridad mundial, molesta que se hable de distribución de los bienes, molesta que se hable de preservar las fuentes de trabajo, molesta que se hable de la dignidad de los débiles, molesta que se hable de un Dios que exige un compromiso por la justicia"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "titulo": "Los políticos",
+      "frases": [{
+          "id": 0,
+          "frase": "¡Pido a Dios que crezca el número de políticos capaces de entrar en un auténtico diálogo que se oriente eficazmente a sanar las raíces profundas y no la apariencia de los males de nuestro mundo!"
+        },
+        {
+          "id": 1,
+          "frase": "La política, tan denigrada, es una altísima vocación, es una de las formas más preciosas de caridad, porque busca el bien común. ¡Ruego al Señor que nos regale más políticos a quienes les duela de verdad la sociedad, el pueblo, la vida de los pobres!"
+        },
+        {
+          "id": 2,
+          "frase": "Es imperioso que los gobernantes y los poderes financieros levanten la mirada y amplíen sus perspectivas, que procuren que haya trabajo digno, educación y cuidado de la salud para todos los ciudadanos. ¿Y por qué no acudir a Dios para que inspire sus planes?"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "titulo": "La economía mundial",
+      "frases": [{
+          "id": 0,
+          "frase": "La economía, como la misma palabra indica, debería ser el arte de alcanzar una adecuada administración de la casa común, que es el mundo entero"
+        },
+        {
+          "id": 1,
+          "frase": "Mi palabra no es la de un enemigo ni la de un opositor. Sólo me interesa procurar que aquellos que están esclavizados por una mentalidad individualista, indiferente y egoísta, puedan liberarse de esas cadenas indignas y alcancen un estilo de vida y de pensamiento más humano, más noble, más fecundo, que dignifique su paso por esta tierra"
+        },
+        {
+          "id": 2,
+          "frase": "Quisiera que se escuchara el grito de Dios preguntándonos a todos: ¿Dónde está tu hermano?. ¿Dónde está ese que estás matando cada día en el taller clandestino, en la red de prostitución, en los niños que utilizas para mendicidad, en aquel que tiene que trabajar a escondidas porque no ha sido formalizado? No nos hagamos los distraídos. Hay mucho de complicidad. ¡La pregunta es para todos! Y en nuestras ciudades muchos tienen las manos preñadas de sangre debido a la complicidad cómoda y muda"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "titulo": "El aborto",
+      "frases": [{
+          "id": 0,
+          "frase": "Entre los débiles que la Iglesia quiere cuidar con predilección están los niños por nacer, que son los más débiles e indefensos de todos, a los que hoy se les quiere negar su dignidad humana quitándoles la vida y promoviendo legislaciones para que nadie pueda impedirlo"
+        },
+        {
+          "id": 1,
+          "frase": "Éste no es un asunto sujeto a supuestas reformas o «modernizaciones». No es progresista pretender resolver los problemas eliminando una vida humana"
+        },
+        {
+          "id": 2,
+          "frase": "…Pero también es verdad que hemos hecho poco para acompañar adecuadamente a las mujeres que se encuentran en situaciones muy duras, donde el aborto se les presenta como una rápida solución a sus profundas angustias, particularmente cuando la vida que crece en ellas ha surgido como producto de una violación o en un contexto de extrema pobreza. ¿Quién puede dejar de comprender esas situaciones de tanto dolor?"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "titulo": "Las guerras",
+      "frases": [{
+          "id": 0,
+          "frase": "La paz tampoco «se reduce a una ausencia de guerra, fruto del equilibrio siempre precario de las fuerzas. La paz se construye día a día, en la instauración de un orden querido por Dios, que comporta una justicia más perfecta entre los hombres"
+        },
+        {
+          "id": 1,
+          "frase": "A veces me pregunto quiénes son los que en el mundo actual se preocupan realmente por generar procesos que construyan pueblo, más que por obtener resultados inmediatos que producen un rédito político fácil, rápido y efímero, pero que no construyen la plenitud humana"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "titulo": "Iglesia y ciencia",
+      "frases": [{
+          "id": 0,
+          "frase": "La Iglesia no pretende detener el admirable progreso de las ciencias. Al contrario, se alegra e incluso disfruta reconociendo el enorme potencial que Dios ha dado a la mente humana"
+        },
+        {
+          "id": 1,
+          "frase": "Algunos científicos van más allá del objeto formal de su disciplina y se extralimitan con afirmaciones o conclusiones que exceden el campo de la propia ciencia. En ese caso, no es la razón lo que se propone, sino una determinada ideología que cierra el camino a un diálogo auténtico, pacífico y fructífero"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "titulo": "Diálogo con los judios",
+      "frases": [{
+          "id": 0,
+          "frase": "La amistad con los hijos de Israel es parte de la vida de los discípulos de Jesús. Y la Iglesia considera al pueblo de la Alianza y su fe como una raíz sagrada de la propia identidad cristiana"
+        },
+        {
+          "id": 1,
+          "frase": "El diálogo interreligioso es una condición necesaria para la paz en el mundo, y por lo tanto es un deber para los cristianos así como para otras comunidades religiosas"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "titulo": "Mensaje al islam",
+      "frases": [{
+          "id": 0,
+          "frase": "Los cristianos deberíamos acoger con afecto y respeto a los inmigrantes del Islam que llegan a nuestros países, del mismo modo que esperamos y rogamos ser acogidos y respetados en los países de tradición islámica. ¡Ruego, imploro humildemente a esos países que den libertad a los cristianos para poder celebrar su culto y vivir su fe, teniendo en cuenta la libertad que los creyentes del Islam gozan en los países occidentales!"
+        },
+        {
+          "id": 1,
+          "frase": "Frente a episodios de fundamentalismo violento que nos inquietan, el afecto hacia los verdaderos creyentes del Islam debe llevarnos a evitar odiosas generalizaciones, porque el verdadero Islam y una adecuada interpretación del Coran se oponen a toda violencia"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "titulo": "El papel de la mujer en la iglesia",
+      "frases": [{
+          "id": 0,
+          "frase": "Todavía es necesario ampliar los espacios para una presencia femenina más incisiva en la Iglesia. Porque «el genio femenino es necesario en todas las expresiones de la vida social; por ello, se ha de garantizar la presencia de las mujeres también en el ámbito laboral y en los diversos lugares donde se toman las decisiones importantes, tanto en la Iglesia como en las estructuras sociales"
+        },
+        {
+          "id": 1,
+          "frase": "Las reivindicaciones de los legítimos derechos de las mujeres plantean en la Iglesia profundas preguntas que no se pueden eludir superficialmente. El sacerdocio reservado a los varones, como signo de Cristo Esposo que se entrega en la Eucaristía, es una cuestión que no se pone en discusión. Pero en la Iglesia las funciones no dan lugar a la superioridad. Y una mujer, María, es más importante que los obispos"
+        }
+      ]
+    }
+  ]
+}
