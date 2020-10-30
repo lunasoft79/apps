@@ -1,60 +1,60 @@
 {
 	"data": [{
-		"id": "1",
+		"id": "0",
 		"titulo": "Trabajo, Abundancia y Protección",
 		"imagen": "bendecidos",
 		"total": "Con Protección, Abundancia, Trabajo",
 		"archivo": "bendecidos.json"
 	}, {
-		"id": "2",
+		"id": "1",
 		"titulo": "Alejar Amantes",
 		"imagen": "enemigos",
 		"total": "Para alejar Amantes, Infidelidades y regreso de la Pareja",
 		"archivo": "enemigos.json"
 	}, {
-		"id": "3",
+		"id": "2",
 		"titulo": "Mal de Ojo",
 		"imagen": "malojo",
 		"total": "Para quitar el Mal de Ojo y las Malas Vibras.",
 		"archivo": "malojo.json"
 	}, {
-		"id": "4",
+		"id": "3",
 		"titulo": "Contra Injusticias",
 		"imagen": "injusticias",
 		"total": "Para Librar y Proteger de Injusticias y Calumnias",
 		"archivo": "injusticia.json"
 	}, {
-		"id": "5",
+		"id": "4",
 		"titulo": "Protección de Casa",
 		"imagen": "casa",
 		"total": "Proteger la Casa de las Envidias y Malas Vibras",
 		"archivo": "casa.json"
 	}, {
-		"id": "6",
+		"id": "5",
 		"titulo": "Abre Caminos Prosperidad",
 		"imagen": "peligros",
 		"total": "Poderosas Oraciones para Abrir los caminos a la Prosperidad",
 		"archivo": "peligros.json"
 	}, {
-		"id": "7",
+		"id": "6",
 		"titulo": "Oración Arcangeles",
 		"imagen": "arcangeles",
 		"total": "Pedir la Protección de los Arcangeles",
 		"archivo": "arcangeles.json"
 	}, {
-		"id": "8",
+		"id": "7",
 		"titulo": "Agobiantes Necesidades",
 		"imagen": "caravaca",
 		"total": "Oraciones para pedir por Nececidades Agobiantes",
 		"archivo": "caravaca.json"
 	}, {
-		"id": "9",
+		"id": "8",
 		"titulo": "Enfermedades",
 		"imagen": "proteccion",
 		"total": "Oraciones para pedir por la Salud",
 		"archivo": "proteccion.json"
 	}, {
-		"id": "10",
+		"id": "9",
 		"titulo": "Fortuna y Suerte",
 		"imagen": "fortuna",
 		"total": "Oraciones para ganar la Loteria, Fortuna, Negocios",
