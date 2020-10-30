@@ -27,7 +27,7 @@
 		"id": "2",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "incienso.jpg"
 	}, {
 		"titulo": "La Imposición de Manos",
 		"titora": "Imponer  sobre la cabeza de uno las manos tiene significados distintos",
@@ -36,7 +36,7 @@
 		"id": "3",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "Imposicion-manos.jpg"
 	}, {
 		"titulo": "El Saludo de la Paz",
 		"titora": "El Misal describe así el gesto de la paz:",
@@ -45,7 +45,7 @@
 		"id": "4",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "paz.jpg"
 	}, {
 		"titulo": "El Sacerdote Besa los Evangelios",
 		"titora": "Al hacerlo el sacerdote dice en voz baja:",
@@ -54,7 +54,7 @@
 		"id": "5",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "beso.jpg"
 	}, {
 		"titulo": "La Señal de la Cruz",
 		"titora": "la Cruz es una verdadera cátedra, desde la que Cristo nos predica siempre",
@@ -63,7 +63,7 @@
 		"id": "6",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "senal.jpg"
 	}, {
 		"titulo": "El Agua",
 		"titora": "El agua es una realidad que ya humanamente tiene muchos valores y sentidos:",
@@ -72,7 +72,7 @@
 		"id": "7",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "agua-bendita.jpg"
 	}, {
 		"titulo": "Las Campanas",
 		"titora": "Es muy antiguo el uso de objetos metálicos para señalar con su sonido la fiesta o la convocatoria de la comunidad.",
@@ -81,7 +81,7 @@
 		"id": "8",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "campanas.jpg"
 	}, {
 		"titulo": "El Canto",
 		"titora": "El canto expresa y realiza nuestras actitudes interiores.",
@@ -90,7 +90,7 @@
 		"id": "9",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "canto.jpg"
 	}, {
 		"titulo": "La Ceniza",
 		"titora": "La ceniza, del latín 'cinis', es producto de la combustión de algo por el fuego.",
@@ -99,7 +99,7 @@
 		"id": "10",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "ceniza.jpg"
 	}, {
 		"titulo": "El Cirio Pascual",
 		"titora": "Del latín 'cereus', de cera, el producto de las abejas.",
@@ -108,7 +108,7 @@
 		"id": "11",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "cirio-pascual.jpg"
 	}, {
 		"titulo": "La Colecta",
 		"titora": "La palabra 'colecta' viene del latín 'collecta, colligere', 'recogida, recoger'.",
@@ -117,7 +117,7 @@
 		"id": "12",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "diezmo.jpg"
 	}, {
 		"titulo": "La Comunión",
 		"titora": "De la palabra latina 'communio', acción de unir, de asociar y participar (correspondiente a la griega 'koinonía') 'comunión'",
@@ -126,7 +126,7 @@
 		"id": "13",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "comunion2.jpg"
 	}, {
 		"titulo": "Comer el Pan",
 		"titora": "Juntamente con el 'beber', el 'comer' es el gesto central de la Eucaristía cristiana.",
@@ -135,7 +135,7 @@
 		"id": "14",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "hostia.jpg"
 	}, {
 		"titulo": "Partir el Pan",
 		"titora": "El origen de este gesto en nuestra Eucaristía lo conocemos todos.",
@@ -144,7 +144,7 @@
 		"id": "15",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "fracciondelpan.jpg"
 	}, {
 		"titulo": "Golpes de Pecho",
 		"titora": "Gesto penitencial y de humildad.",
@@ -153,7 +153,7 @@
 		"id": "16",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "golpepecho.jpg"
 	}, {
 		"titulo": "Arrodillarse",
 		"titora": "Estar de rodillas es una actitud de humildad.",
@@ -162,7 +162,7 @@
 		"id": "17",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "rodillas.jpg"
 	}, {
 		"titulo": "Ponerse de Pie",
 		"titora": "Es la postura más usada en la Misa.",
@@ -171,7 +171,7 @@
 		"id": "18",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "depie.jpg"
 	}, {
 		"titulo": "Lavarse las Manos",
 		"titora": "El sacerdote se lava las manos antes de la consagración",
@@ -180,7 +180,7 @@
 		"id": "19",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "lavarsemanos.jpg"
 	}, {
 		"titulo": "Gotas de Agua en el Vino",
 		"titora": "Con este signo el sacerdote le pide a Dios que una nuestras vidas a la suya.",
@@ -189,6 +189,6 @@
 		"id": "20",
 		"manda": "contenidof",
 		"titora2": "",
-		"imagenf": ""
+		"imagenf": "gotasagua.jpg"
 	}]
 }
