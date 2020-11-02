@@ -1,0 +1,51 @@
+{
+	"data": [{
+		"id": 0,
+		"titulo": "Parte 1",
+		"imagen": "",
+		"total": "Creación a Diluvio",
+		"archivo" : "parte1.json"
+	}, {
+		"id": 1,
+		"titulo": "Parte 2",
+		"imagen": "",
+		"total": "Diluvio a liberación en Egipto",
+		"archivo" : "parte2.json"
+	}, {
+		"id": 2,
+		"titulo": "Parte 3",
+		"imagen": "",
+		"total": "Liberación en Egipto a primer rey de Israel",
+		"archivo" : "parte3.json"
+	}, {
+		"id": 3,
+		"titulo": "Parte 4",
+		"imagen": "",
+		"total": "Primer rey de Israel a cautiverio en Babilonia",
+		"archivo" : "parte4.json"
+	}, {
+		"id": 4,
+		"titulo": "Parte 5",
+		"imagen": "",
+		"total": "Cautiverio a reconstrucción de las murallas de Jerusalén",
+		"archivo" : "parte5.json"
+	}, {
+		"id": 5,
+		"titulo": "Parte 6",
+		"imagen": "",
+		"total": "Nacimiento a muerte de Jesús",
+		"archivo" : "parte6.json"
+	}, {
+		"id": 6,
+		"titulo": "Parte 7",
+		"imagen": "",
+		"total": "Resurrección de Jesús a aprisionamiento de Pablo",
+		"archivo" : "parte7.json"
+	}, {
+		"id": 7,
+		"titulo": "Parte 8",
+		"imagen": "",
+		"total": "Lo que la Biblia predice se cumple",
+		"archivo" : "parte8.json"
+	}]
+}
