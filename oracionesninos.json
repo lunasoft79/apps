@@ -1,0 +1,559 @@
+{
+	"data": [{
+		"id": 0,
+		"titulo": "Para los mas pequeños",
+		"imagen": "si",
+		"titora": "20 Oraciones para los mas pequeñitos de la casa",
+		"titora2": "",
+		"manda": "principal2",
+		"contenido": [{
+				"idora": 0,
+				"titora": "Oración al Niño Jesús",
+				"titora2": "",
+				"imagenf": "s1.jpg",
+				"ora": "Jesusito de mi vida,<br />tu eres niño como yo,<br />por eso te quiero tanto<br />y te doy mi corazón,<br />tómalo, tómalo,<br />tuyo es mío no."
+			},
+			{
+				"idora": 1,
+				"titora": "Oración a los ángeles antes de dormir",
+				"titora2": "",
+				"imagenf": "s2.jpg",
+				"ora": "Cuatro esquinitas tiene mi cama,<br />cuatro angelitos que me la guardan,<br />dos a los pies, y dos a la cabecera<br />y la Virgen María a mi delantera<br />que me dice duerme y reposa<br />no tengas miedo de ninguna cosa<br />que yo te guardaré de noche y de día<br />siempre que reces un Ave María."
+			},
+			{
+				"idora": 2,
+				"titora": "Oración al ángel de la guarda",
+				"titora2": "",
+				"imagenf": "s3.jpg",
+				"ora": "Ángel de mi guarda,<br />dulce compañía,<br />no me desampares<br />ni de noche ni de día;<br />si me desamparas<br />¡qué será de mí!,<br />ángel de mi guarda<br />ruega a Dios por mí."
+			},
+			{
+				"idora": 3,
+				"titora": "Oración de la mañana",
+				"titora2": "",
+				"imagenf": "s4.jpg",
+				"ora": " Señor Jesús, te doy gracias<br />por este día que empieza.<br />Te pido que estés conmigo<br />durante todo el día;<br />y que me enseñes<br />a querer a todos<br />como tú me quieres.<br />Amén"
+			},
+			{
+				"idora": 4,
+				"titora": "Oración de la noche",
+				"titora2": "",
+				"imagenf": "s5.jpg",
+				"ora": " Señor Jesús,<br />cuando el día ya termina,<br />y llega la noche,<br />te doy gracias por las alegrías<br />que he tenido hoy;<br />y te pido perdón por las veces<br />que he hecho sufrir a los demás.<br />Señor Jesucristo,<br />guárdame durante esta noche,<br />guarda a mis padres y hermanos,<br />guarda a mis familiares y amigos.<br />Y enséñame a quererte cada día más."
+			},
+			{
+				"idora": 5,
+				"titora": "Oración de un niño",
+				"titora2": "",
+				"imagenf": "s6.jpg",
+				"ora": " Jesús,<br />acuérdate de mis amigos.<br />Te doy gracias por todos ellos.<br />Son muy buenos<br />y los quiero mucho.<br />Protégelos y cuídalos.<br />Acompáñalos siempre<br />de día y de noche<br />y en todas partes.<br />Que gocen de buena salud<br />y crezcan sanos.<br />Si alguno se enferma. Señor,<br />ayuda a que sane pronto.<br />Te pido por las familias de mis amigos,<br />sus padres, hermanos, abuelos,<br />que todos estén bien.<br />Cuida mucho a mis amigos,<br />y que aprendamos a vivir<br />cada día más unidos.<br />Amen"
+			},
+			{
+				"idora": 6,
+				"titora": "Oración para bendecir la mesa",
+				"titora2": "",
+				"imagenf": "s7.jpg",
+				"ora": " Bendito seas, Señor, Dios del universo,<br />por estos alimentos,<br />fruto de la tierra y del trabajo del hombre,<br />que hemos recibido de tu bondad<br />y ahora vamos a compartir.<br />Amen"
+			},
+			{
+				"idora": 7,
+				"titora": "Oración para dar gracias",
+				"titora2": "",
+				"imagenf": "s8.jpg",
+				"ora": " Señor Jesús,<br />estoy contento por muchas cosas<br />y te doy gracias<br />por todo lo bueno que me has dado.<br />Pero te doy gracias, sobre todo,<br />porque estás siempre conmigo,<br />como un amigo que nunca falla.<br />Gracias, Señor."
+			},
+			{
+				"idora": 8,
+				"titora": "Oración Al Espíritu Santo",
+				"titora2": "",
+				"imagenf": "s9.jpg",
+				"ora": " Ven, Espíritu Santo,<br />lléname con tu luz,<br />para que el Padre me mire<br />y me parezca a Jesús."
+			},
+			{
+				"idora": 9,
+				"titora": "Ayudando a mamá",
+				"titora2": "",
+				"imagenf": "s10.jpg",
+				"ora": " En las cosas de la casa,<br />Virgen Sagrada María,<br />quiero ayudar a mi mami<br />como a ti te ayudaría."
+			},
+			{
+				"idora": 10,
+				"titora": "Para ser sincero",
+				"titora2": "",
+				"imagenf": "s11.jpg",
+				"ora": " Hazme, Virgen María,<br />muy sincero y transparente,<br />dame un corazón limpio<br />como el agua de una fuente."
+			},
+			{
+				"idora": 11,
+				"titora": "Ordenando la habitación",
+				"titora2": "",
+				"imagenf": "s12.jpg",
+				"ora": " Para que tú estés a gusto,<br />Señor, en mi habitación,<br />ordeno todas mis cosas<br />y ordeno mi corazón."
+			},
+			{
+				"idora": 12,
+				"titora": "Oración de las eñes",
+				"titora2": "",
+				"imagenf": "s13.jpg",
+				"ora": " Tú, Señor, que fuiste niño<br />y que siempre me acompañas,<br />a ti, que nunca me engañas<br />y me tratas con cariño,<br />te ofrezco mis pocos años<br />te ofrezco mis muchos sueños,<br />líbrame de todo daño,<br />porque tú eres mi Dueño."
+			},
+			{
+				"idora": 13,
+				"titora": "En la cama mientras te duermes",
+				"titora2": "",
+				"imagenf": "s14.jpg",
+				"ora": " Méceme, Virgen María,<br />quiero dormirme en tus brazos,<br />guárdame, oh Madre mía,<br />con Jesús en tu regazo."
+			},
+			{
+				"idora": 14,
+				"titora": "Oración del canguro",
+				"titora2": "",
+				"imagenf": "s15.jpg",
+				"ora": " ¡Arriba, Jesús! ¡Arriba!<br />Contigo yo me levanto,<br />contigo comienzo el día,<br />con el Espíritu Santo<br />y con la Virgen María."
+			},
+			{
+				"idora": 15,
+				"titora": "Para sonreír",
+				"titora2": "",
+				"imagenf": "s16.jpg",
+				"ora": " Hazme Señor, que me ría<br />y no pierda la alegría,<br />ja, ja, ja.<br />Cuando hay penas, ¿qué más da?<br />porque tú eres mi papá,<br />y mi mamá es María."
+			},
+			{
+				"idora": 16,
+				"titora": "Para poner la mesa",
+				"titora2": "",
+				"imagenf": "s17.jpg",
+				"ora": " Oh Virgen de Nazaret,<br />que ponías el comedor<br />para Jesús y José,<br />quiero ponerlo contigo<br />con cariño y por amor,<br />para que estemos unidos<br />y todo sepa mejor."
+			},
+			{
+				"idora": 17,
+				"titora": "Para hacer los deberes",
+				"titora2": "",
+				"imagenf": "s18.jpg",
+				"ora": " Para ti, Señor de mi alma<br />por ti, que tanto me quieres<br />me pongo a hacer los deberes,<br />con ilusión y con calma<br />Y porque tú eres mi amigo<br />te ofrezco todo, Jesús,<br />quiero trabajar contigo,<br />a tu lado y como tú."
+			},
+			{
+				"idora": 18,
+				"titora": "Recogiendo la habitación",
+				"titora2": "",
+				"imagenf": "s19.jpg",
+				"ora": " Oh Virgen pura y hermosa<br />guárdame en tu corazón<br />mientras yo guardo mis cosas<br />y ordeno mi habitación."
+			},
+			{
+				"idora": 19,
+				"titora": "Para abrir la puerta",
+				"titora2": "",
+				"imagenf": "s20.jpg",
+				"ora": " A ti quiero abrirte,<br />Jesús, que me llamas,<br />y abriendo esta puerta,<br />te abro mi alma."
+			},
+			{
+				"idora": 20,
+				"titora": "El sí de María",
+				"titora2": "",
+				"imagenf": "s21.jpg",
+				"ora": " Virgen santa María,<br />tú que dijiste que sí,<br />ayúdame a hacer siempre<br />lo que Dios me pide a mí."
+			}
+		]
+	}, {
+		"id": 1,
+		"titulo": "Para Niños y Adolescentes",
+		"imagen": "no",
+		"titora": "50 Oraciones para Niños un poquito más grandes",
+		"titora2": "",
+		"manda": "principal2",
+		"contenido": [{
+				"idora": 0,
+				"titora": "Vivir como Jesús",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Cuando pensamos primero<br />en los otros...<br />Cuando nos preocupamos<br />por los demás...<br />Cuando acudimos en ayuda<br />del que necesita...<br />Cuando nos acordamos<br />del que tenemos al lado...<br />Cuando compartimos<br />los bienes que tenemos...<br />Cuando acompañamos<br />a los que sufren...<br />Cuando damos nuestro tiempo<br />para beneficio de otros...<br />Cuando colaboramos para mejorar<br />la situación de los que menos tienen...<br />Así es como vivimos<br />a la manera de Jesús.</p>"
+			},
+			{
+				"idora": 1,
+				"titora": "Quiero ser servidor de todos",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Jesús,<br />tu me enseñas<br />que para seguir tus pasos<br />hay que servir a los demás.<br />Ayúdame<br />a ser servicial,<br />a preocuparme por los demás,<br />a vivir pensando en ellos.<br />Enséñame a ayudar<br />a ser generoso y abierto,<br />a estar siempre dispuesto<br />para dar una mano.<br />Quiero dar muchos frutos<br />de buenas acciones.<br />Quiero ser solidario<br />y amar a los demás<br />con gestos, hechos y actitudes,<br />no sólo con palabras.<br />Ayuda a que mi semilla pueda dar<br />muchos frutos de cosas buenas.</p>"
+			},
+			{
+				"idora": 2,
+				"titora": "Señor, ayúdame a servir",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Jesús,<br />quiero seguir tu camino.<br />Vivir alegre y dispuesto<br />para servir a mis hermanos.<br />En el lugar que me pidas.<br />En mi familia,<br />con mis amigos,<br />en la escuela,<br />en el club o en el barrio.<br />Quiero vivir atento<br />a las necesidades de los demás.<br />En especial muy atento<br />a todas las personas que sufren.<br />Quiero ser como vos,<br />servidor de todos.<br />Ayúdame a lograrlo.</p>"
+			},
+			{
+				"idora": 3,
+				"titora": "Por mis amigos",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Jesús,<br />acuerdate de mis amigos.<br />Te doy gracias por todos ellos.<br />Son muy buenos<br />y los quiero mucho.<br />Protégelos y cuidalos.<br />Acompañalos siempre<br />de día y de noche<br />y en todas partes.<br />Que gozen de buena salud<br />y crezcan sanos.<br />Si alguno se enferma. Señor,<br />ayuda a que sane pronto.<br />Te pido por las familias de mis amigos,<br />sus padres, hermanos, abuelos,<br />que todos estén bien.<br />Cuida mucho a mis amigos,<br />y que aprendamos a vivir<br />cada día más unidos.</p>"
+			},
+			{
+				"idora": 4,
+				"titora": "Enséñame a ser buen amigo",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Quiero ser buen amigo, Jesús,<br />enséñame a buscar<br />el bien de mis amigos<br />antes que el mío propio,<br />enséñame a compartir<br />y buscar siempre lo mejor para todos.<br />Que no me pelee<br />ni me enoje con mis amigos.<br />Que acepte con humildad<br />sus consejos y sus palabras.<br />Que siempre tenga una sonrisa<br />y las manos abiertas.<br />Que sepa perdonar<br />y pedir perdón.<br />Ayúdame a ser buena compañia<br />y a llevar esperanza.<br />Quiero ser tan buen amigo<br />como tú lo eres conmigo.</p>"
+			},
+			{
+				"idora": 5,
+				"titora": "Gracias por ir a la escuela",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Querido Jesús:<br />te doy gracias<br />por poder ir a la escuela,<br />y te pido por todos los chicos<br />que no pueden hacerlo.<br />Ayudame a estudiar mucho<br />y aprender cada día más.<br />Quiero ser un buen compañero,<br />preocuparme por los demás,<br />ayudar a todos,<br />compartir con ellos mi tiempo,<br />mi alegría y mi cariño.<br />Te pido por mis maestros<br />dales mucha fuerza y alegría<br />para que nos enseñen<br />con paciencia y mucho amor.<br />Danos tu fuerza Señor<br />para hacer un mundo donde<br />todos puedan estudiar y aprender.</p>"
+			},
+			{
+				"idora": 6,
+				"titora": "Para rezar a la Virgen",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Querida Madre.<br />Acompañame todos los días.<br />Ayúdame a portarme bien<br />y ser un buen hijo,<br />servicial y atento<br />para lo que necesiten mis papás.<br />Quiero ser un buen hermano,<br />que no discuta ni me pelee tan fácil<br />por cosas que no son importantes.<br />Dame una manito en las cosas de la escuela<br />y ayúdame a tener siempre<br />una sonrisa para todos<br />los que me rodean.<br />Ayudame a vivir<br />haciendo el bien,<br />como le enseñaste<br />a tu hijo Jesús.<br />Ayudame a ser como El.</p>"
+			},
+			{
+				"idora": 7,
+				"titora": "Por los niños de la calle",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Jesús, mi buen amigo,<br />te quiero pedir hoy<br />por todos los niños<br />que viven en la calle.<br />Que están solos,<br />abandonados,<br />desprotegidos.<br />Sin un papá o una mamá<br />que los cuide y los quiera.<br />Ayudame a descubrir tu rostro<br />en cada niño que sufre<br />y enseñame a ser solidario.<br />pero puedo y quiero ayudar.<br />Que no viva indiferente.<br />Dame fuerzas para vivir<br />un amor grande como el tuyo.<br />Que no me quede en palabras,<br />como le pasa a tantos adultos.<br />Enseñame a amar de verdad.</p>"
+			},
+			{
+				"idora": 8,
+				"titora": "Por mis abuelos",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Querido Jesús,<br />te quiero pedir por mis abuelitos.<br />Dales mucha salud<br />y que no se enfermen.<br />Ayudalos para que estén bien,<br />contentos, sanos,<br />que tengan lo necesario<br />para ser muy felices,<br />y que no les falte nunca la alegría<br />y las ganas de vivir.<br />Que no se sientan solos<br />ni tristes o cansados.<br />Que descubran que vos<br />estás siempre con ellos,<br />porque nos querés a todos<br />y nunca nos abandonas.<br />Dame fuerzas<br />para quererlos mucho,<br />para visitarlos,<br />cuidarlos con cariño<br />y atenderlos como merecen.<br />Acompañalos siempre,Señor,<br />que te sientan a su lado,<br />y muchas gracias por mis abuelos.</p>"
+			},
+			{
+				"idora": 1,
+				"titora": "A María, nuestra madre",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Querida Virgen María.<br />Gracias por ser<br />nuestra mamá en la fe,<br />por estar cerca nuestro<br />y cuidarnos mucho<br />como hiciste con Jesús-niño.<br />Quiero conocer mejor a tu hijo<br />y a quererlo más cada día.<br />Quiero vivir como Jesús.<br />Ser buen hijo,<br />buen hermano<br />y buen amigo.<br />Contagiame tu esperanza.<br />Que aprenda, como vos,<br />a vivir en las manos de Dios.<br />Ayudame a hacer crecer mi fe.<br />Madre Buena, enseñame a seguir<br />los pasos de Jesús.</p>"
+			},
+			{
+				"idora": 9,
+				"titora": "Por mi papá",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Querido Jesús.<br />Hoy te pido por mi papá.<br />Que nunca le falte el trabajo,<br />ni tenga problemas de salud.<br />Que esté feliz en nuestra familia<br />y cada día seamos más unidos,<br />para que esté orgulloso<br />de todos nosotros.<br />Ayudame a confiar mucho en él,<br />a escuchar sus consejos<br />y a obedecer en lo que me pida.<br />Te pido que él esté contento<br />y no se canse mucho<br />trabajando por nosotros.<br />Acompañalo en todo momento,<br />cuando sale a trabajar,<br />cuando viaja,<br />cuando está con nosotros.<br />Dale paciencia,<br />buen ánimo y mucha alegría.<br />Lo quiero mucho<br />y te pido que vos lo cuides<br />y lo quieras también.<br />Gracias por mi papá.</p>"
+			},
+			{
+				"idora": 10,
+				"titora": "Espíritu del Señor",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Espíritu del Señor.<br />Hoy me dirijo a vos<br />para pedirte<br />que me acompañes siempre<br />a lo largo de mi vida.<br />Ayudame a mantenerme fiel<br />a la Palabra de jesús,<br />y a vivir todos los días<br />como El nos enseñó.<br />Te pido por mi familia,<br />mis amigos, mis conocidos.<br />También te quiero pedir<br />por aquellos que sufren,<br />o están solos, o enfermos.<br />Danos fuerzas para construir<br />un mundo de hermanos<br />donde haya Justicia y Paz.<br />Quiero vivir como Jesús.<br />Gracias por estar junto a mí.</p>"
+			},
+			{
+				"idora": 11,
+				"titora": "Por las vocaciones",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Padre Bueno<br />que estás en todas partes<br />y nos proteges siempre.<br />Te pedimos por todos<br />los jóvenes, hombres y mujeres<br />que sienten tu llamado<br />a la vida religiosa.<br />Envíanos Señor más servidores<br />para construir tu Reino.<br />El trabajo es mucho<br />y los trabajadores son pocos.<br />Dale fuerzas<br />a todos los sacerdotes,<br />religiosas y religiosas del mundo<br />para que sigan tu camino,<br />con fidelidad a la verdad.<br />Para que ayuden a todos<br />como lo hizo tu Hijo Jesús.<br />Para que trabajen<br />por la Justicia y la Verdad.<br />Te pedimos que<br />los acompañes siempre<br />Seguí llamando cada día más.</p>"
+			},
+			{
+				"idora": 12,
+				"titora": "El amor es servicio",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Jesús amigo:<br />Gracias por todos los dones<br />que me regalaste.<br />Gracias por mi familia,<br />por mis amigos,<br />por las posibilidades que me das,<br />por conocerte y amarte.<br />Gracias, Jesús,<br />porque me mostras tu amor<br />en el cariño de los demás.<br />Te quiero pedir que me ayudes<br />a ser generoso<br />y a compartir toda mi vida<br />con los demás.<br />Ayudame a dar muchos frutos.<br />Porque todo lo que me diste<br />es para compartir<br />y ofrecer a los demás.<br />Jesús quiero ser cada día<br />un poco más parecido a vos.</p>"
+			},
+			{
+				"idora": 13,
+				"titora": "Cuando estoy triste",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Querido Jesús:<br />hoy no ando bien,<br />estoy bajoneado,<br />me siento triste,<br />necesito sentirte cerca<br />para levantarme el ánimo<br />y volver a sonreir.<br />Veo las cosas todas negras<br />y no soy capaz de ver<br />todas las cosas lindas que me pasan.<br />Contagiame tu alegría y tus ganas.<br />Ayudame a sonreir y a ver las cosas<br />con más optimismo y buena cara.<br />Yo se que está conmigo y a mi lado,<br />que no me fallas nunca,<br />que sos mi amigo de verdad.</p>"
+			},
+			{
+				"idora": 14,
+				"titora": "Por el Papa",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Señor,<br />te pedimos por nuestro Papa,<br />a quien vos encomendaste<br />la tarea de cuidar a tu pueblo.<br />Ayudalo a tener<br />un corazón bien grande,<br />ayudalo en su misión<br />de Pastor de tu Iglesia,<br />dale tu Espíritu de libertad,<br />verdad y unión,<br />que sus consejos y palabras nazcan<br />del encuentro profundo contigo.<br />Abrí los oídos<br />y los corazones de las personas<br />para que escuchen<br />sus constantes llamados<br />a la Paz, a la Solidaridad<br />y a la Justicia.<br />Ayúdanos a crecer<br />como un Pueblo de Hermanos,<br />y haz que junto a nuestro Papa<br />vivamos cada día<br />poniendo en práctica<br />tus palabras y enseñanzas.</p>"
+			},
+			{
+				"idora": 15,
+				"titora": "Junto al pesebre",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Querido Dios:<br />estamos todos juntos<br />para pedirte por nuestra familia.<br />Ayudanos a querernos siempre más,<br />a perdonarnos<br />y a saber ayudar,<br />a escuchar al otro<br />y a tratarlo con cariño.<br />Tambíen te queremos pedir<br />por todos los niños<br />que no tienen un hogar,<br />por los que andan por la calle,<br />solos y abandonados.<br />Ayudanos a preocuparnos por ellos,<br />y a no olvidarnos ni ser indiferentes.<br />Junto al pesebre<br />queremos ofrecerte<br />lo mejor de nosotros<br />para construir un mundo mejor.<br />Te damos nuestro corazón<br />para que Jesús nazca en nosotros<br />y lo llevemos a los demás.</p>"
+			},
+			{
+				"idora": 16,
+				"titora": "Querido Jesús",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Querido Jesús:<br />Gracias por todos los dones<br />que me regalaste.<br />Gracias por mi familia,<br />por mis parientes,<br />por mis amigos,<br />por las posibilidades que me ofreces,<br />por conocerte y amarte.<br />Gracias, Jesús,<br />porque me mostras tu amor<br />en el cariño de los demás.<br />Te quiero pedir que me ayudes<br />a ser generoso<br />y a compartir toda mi vida<br />con los demás.<br />Que no me guarde nada<br />de lo bueno que hay en mí.<br />Quiero multiplicar<br />lo que recibí de tus manos<br />y brindar lo mejor de mi persona<br />a todos los que me rodean.<br />Ayudame a dar muchos frutos.<br />Jesús quiero ser cada día<br />un poco más parecido a vos.</p>"
+			},
+			{
+				"idora": 17,
+				"titora": "Preparando la comunión",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Te pido, Jesús,<br />estar siempre preparado<br />para recibirte en la Eucaristía.<br />Necesito encontrarme con vos<br />en el pan que alimenta<br />y da vida.<br />Que nunca me falte<br />el hambre de Dios,<br />las ganas de que llenes mi corazón.<br />Que nunca sea indiferente<br />al hambre que sufren tantos hermanos,<br />y que viva solidario para ayudar.<br />Que cada Eucaristía<br />sea una verdadera fiesta<br />porque juntos, en comunidad,<br />nos alimentamos con tu presencia viva.<br />Gracias por pensar en nosotros<br />y darnos la alegría<br />de poder recibirte<br />para crecer en nuestra fe,<br />nuestra esperanza<br />y nuestro amor a los demás.<br />Que cada Eucaristía<br />me de fuerzas para seguirte.</p>"
+			},
+			{
+				"idora": 18,
+				"titora": "¡Quiero ser tu discípulo!",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Jesús, aquí estoy<br />para seguirte donde tú vayas.<br />Quiero ser tu discípulo fiel<br />y aprender todo lo quieras enseñarme.<br />Te ofrezco todo lo bueno<br />que hay en mí para servir a los demás.<br />Estoy disponible, Señor,<br />para seguir tus pasos.<br />Estoy feliz<br />porque a tu lado<br />aprendo a vivir haciendo el bien.<br />Tengo muchas ganas<br />de crecer en la fe,<br />en la esperanza<br />y en el amor a los demás.<br />¡Ayudame a vivir<br />como un buen discípulo!</p>"
+			},
+			{
+				"idora": 19,
+				"titora": "Día del niño",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Padre bueno,<br />en este día tan feliz<br />para mí y para muchos,<br />no quiero olvidarme de todos los niños<br />que sufren en el mundo.<br />Por los niños enfermos,<br />por los niños de la guerra,<br />por los niños de la calle,<br />por los niños abandonados,<br />por los niños sin familia,<br />por los niños que no pueden ir a la escuela,<br />por los niños que no tienen para comer,<br />por los niños que deben trabajar,<br />por todos ellos Señor,<br />te quiero pedir en este día.<br />Ayudame a vivir solidario<br />con todos ellos.<br />Que nunca olvide que Tú estás presente<br />en el rostro de cada niño.</p>"
+			},
+			{
+				"idora": 20,
+				"titora": "Te damos gracias, Señor",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Gracias por enseñarnos<br />a vivir como hermanos.<br />Gracias por enseñarnos a perdonar<br />y reconstruir nuestras relaciones humanas.<br />Gracias por enseñarnos cómo amar,<br />y y darnos el ejemplo del mayor amor.<br />Gracias por la madre que nos diste,<br />que nos cuida y nos acompaña siempre.<br />Gracias por tu Palabra<br />tan clara, tan sencilla, tan llena de vida.<br />Gracias por invitarnos a seguirte<br />construyendo el Reino de Dios en la tierra.<br />Gracias por confiar en nosotros<br />e invitarnos a colaborar con tu misión.<br />Gracias por enseñarnos<br />a vivir en comunidad.<br />Gracias por la madre Iglesia,<br />que es nuestra gran familia.<br />Por todo, gracias Señor.</p>"
+			},
+			{
+				"idora": 21,
+				"titora": "¡Quiero seguir tus pasos!",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Buen amigo Jesús.<br />Me entusiasma la idea<br />de vivir como vos.<br />Quiero tenerte como modelo<br />para parecerme cada día<br />un poco más a tu persona<br />y así estar más cerca de Dios.<br />Vos pasaste haciendo el bien<br />revelando el verdadero rostro de Dios,<br />mostrando cómo vivir el amor,<br />ayudando a los necesitados,<br />perdonando y llamando a perdonar,<br />enseñando cómo rezar<br />y llamar Papá a Dios,<br />predicando el Reino de Justicia y Paz.<br />Quiero vivir siguiendo tu camino,<br />dame fuerzas para lograrlo.</p>"
+			},
+			{
+				"idora": 22,
+				"titora": "Ayudame a crecer",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Amigo Jesús:<br />ayudame a ser humilde y sincero.<br />A no aparentar lo que no soy<br />ni querer ser más que los otros.<br />Enseñame a decir siempre la verdad<br />y a no mentir,<br />aunque a veces cueste bastante<br />y haya que poner mucha voluntad.<br />Quiero aprender a ayudar<br />y a dar una mano a todo el que lo necesite.<br />Abrí mi corazón<br />para que viva pensando en los demás.<br />Dame coraje y valentía<br />para ser honesto<br />y no engañar a nadie.<br />Para ganarme las cosas<br />esfuerzo y dedicación.<br />Ayudame a cumplir<br />todas las metas que me propongo<br />para crecer y ser cada día mejor persona.</p>"
+			},
+			{
+				"idora": 23,
+				"titora": "Madre, quiero seguir tus pasos",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Hoy me dirijo a vos, María,<br />para pedirte que me ayudes<br />a escuchar con confianza<br />la palabra del Señor.<br />Contagiame tu fe,<br />tu amor y tu esperanza<br />para que yo pueda responder sí<br />a todo lo que Dios me pida.<br />Enseñame<br />a disponer el corazón,<br />a saber escuchar,<br />a guardar dentro mío<br />lo que el Señor va diciendo.<br />A recibir con generosidad<br />todo lo que El propone.<br />Ayudame a ser fiel<br />y a mantener el rumbo<br />que pide el Señor.<br />Que no me olvide<br />de dedicar cada día<br />un ratito a charlar con Jesús<br />y escuchar su voz en la Biblia.<br />Madre, quiero seguir tus pasos,<br />acompañame en el camino.</p>"
+			},
+			{
+				"idora": 24,
+				"titora": "Enseñame a tener compasión",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Querido Jesús:<br />yo también quiero ser compasivo<br />y ayudar a los que sufren.<br />Quiero ser como el buen samaritano,<br />que se hizo prójimo<br />de quien estaba tirado en el camino<br />y necesitaba una mano.<br />Dame valor para acercarme<br />a todos los que necesitan consuelo,<br />companía y ayuda de cualquier tipo.<br />Empapa mi corazón<br />del espíritu del buen samaritano<br />para que ofrezca siempre<br />mis manos abiertas a los demás.<br />Que nunca pase de largo<br />ante el dolor de mis hermanos<br />que no sea indiferente<br />al sufimiento.<br />Dame fuerzas, Jesús,<br />para vivir ayudando a todos.</p>"
+			},
+			{
+				"idora": 25,
+				"titora": "Oración de la noche",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Querido amigo Jesús,<br />en esta noche<br />tengo muchas cosas para decirte:<br />Te quiero dar gracias<br />por mi familia,<br />mis papás, mis hermanos,<br />mis amigos,<br />y toda la gente buena<br />que Vos ponés a mi lado.<br />Quiero pedirte<br />por todos los niños del mundo,<br />en especial por los que están más solos,<br />para que todos reciban<br />cariño y amor sincero,<br />para que no haya chicos que sufran<br />y todos puedan sonreir felices en este día.<br />Te pido tu ayuda para ser mejor.<br />Te pido tu compañía<br />para vivir alegre en todo momento.<br />Y te pido tu amor<br />para llevarlo a los que me rodean,<br />y así vivir cada día<br />más cerca tuyo.</p>"
+			},
+			{
+				"idora": 26,
+				"titora": "Gracias, Jesús, por las vacaciones",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Querido amigo Jesús,<br />y te quiero dar gracias en este día<br />por todas las cosas buenas<br />que me pasaron en estas vacaciones.<br />Por los días lindos,<br />de buen tiempo y sol,<br />que pude aprovechar<br />jugando al aire libre,<br />¡ gracias, Señor !<br />Por mis amigos de siempre<br />y los nuevos que conocí;<br />por los buenos momentos pasados,<br />¡ gracias, Señor !<br />Por mi familia,<br />mis papás, mis hermanos,<br />mis tíos, primos y abuelos.<br />Porque los pude ver un poco más<br />y compartir más tiempo con ellos,<br />¡ gracias, Señor !<br />Por la alegría y la paz<br />que siento al saber<br />que me acompañás siempre<br />como un buen amigo fiel,<br />¡ gracias, Señor !</p>"
+			},
+			{
+				"idora": 27,
+				"titora": "Por mi familia",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Jesús,<br />te quiero pedir hoy por toda mi familia.<br />Mi papá, mi mamá, mis hermanos…<br />Dales buena salud a todos<br />y que siempre puedan ser felices.<br />Que mis papás tengan trabajo<br />y se quieran mucho.<br />Que mis hermanos y yo<br />estudiemos todo lo que aprendemos en la escuela,<br />que ayudemos en casa sin protestar,<br />y que aprendamos a jugar juntos<br />y a llevarnos bien.<br />Quiero que siempre nos acompañes<br />y que vivamos muy unidos<br />haciendo crecer tu inmenso amor<br />en medio de nosotros<br />todos los días, en todo momento.<br />Que así sea, buen Señor Jesus.</p>"
+			},
+			{
+				"idora": 28,
+				"titora": "Por mi mamá",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Querido Jesús,<br />hoy te pido por mi mami.<br />Es muy buena conmigo.<br />Yo la quiero de verdad<br />y quisiera pedirte<br />que siempre la acompañes.<br />Enseñame a valorar<br />todo lo que mi mamá hace por mí<br />y por mi familia.<br />Ayudame a saber pedir perdón<br />cuando la ofendo o la enojo.<br />Te doy gracias por todo lo que ella hace.<br />Que no le falte la buena salud<br />y el cariño de todos nosotros.<br />Ayudala a vivir siempre cerca tuyo,<br />a no olvidar que la querés muchísimo,<br />y que nunca la dejas sola.<br />Gracias por darme<br />una mamá como la tuya.<br />Gracias, Señor.</p>"
+			},
+			{
+				"idora": 29,
+				"titora": "Por los enfermos",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Señor,<br />acuerdate de todas las personas<br />que sufren enfermedades.<br />Acompañalos y ayudales<br />a superar el dolor.<br />Enseñales a descubrir tu rostro<br />siempre presente en los momento difíciles.<br />Dales fuerza para continuar sus tratamientos<br />y mejorar su salud.<br />Danos un corazón grande y compasivo,<br />capaz de amar y trabajar por los enfermos,<br />ayudanos a aliviar sus dolores,<br />y ofrecer lo mejor que tenemos para su alegría.<br />Enseñsanos Señor a vete en el enfermo<br />y a dar una mano con cariño..<br />Que así sea, buen Señor Jesús.</p>"
+			},
+			{
+				"idora": 30,
+				"titora": "Enséñame a rezar",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Jesús, maestro y amigo bueno,<br />enseñame a rezar como vos lo hacías.<br />Prepara mi corazón y mis labios<br />para decircontigo: ¡Papá!<br />Al Dios Bueno que está en los cielos<br />y en la tierra, cerca nuestro acompañandonos<br />y cuidandonos mucho y siempre.<br />Ayudame a buscar un momento en el día<br />para hablar con Dios, tranquilo,<br />contandole mi vida, mis cosas,<br />mis problemas y mis alegrías.<br />Enseñame a hacer silencio para escuchar su palabra.<br />Enseñame a oir, entre el ruido que nos rodea,<br />la voz del Padre que nos expresa su amor.<br />Jesús, amigo bueno, enseñame a decir<br />Padrenuestro con fe, con ganas, con alegría y confianza.</p>"
+			},
+			{
+				"idora": 31,
+				"titora": "Dame fuerzas para estudiar",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Jesús, empieza el tiempo de las pruebas<br />y tengo que estudiar mucho.<br />Dame fuerzas para trabajar con entusiasmo<br />y dedicarle esfuerzo al estudio.<br />Ayudame a entender las cosas que debo estudiar.<br />Ayudame a ser prolijo<br />y hacer las tareas con tiempoy dedicación.<br />Que no me ponga nervioso,<br />que me acuerde de todo lo que estudie.<br />Dame una manito y que pueda aprobar<br />si realmente me lo merezco.<br />Ah, me olvidaba,<br />muchas gracias Jesús,<br />por la posibilidad<br />que tengo de estudiar<br />e ir al cole.<br />Te pido para que todos los niños<br />puedan ir a la escuela y estudiar.</p>"
+			},
+			{
+				"idora": 32,
+				"titora": "Empiezan las vacaciones",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Gracias Jesús<br />por este año que termina,<br />por los buenos momentos que pasé en la escuela,<br />por todo lo que aprendí,<br />por mis maestros y mis compañeros.<br />Te pido que los acompañés a todos<br />hasta que nos reencontremos el año próximo.<br />También te quiero pedir<br />por todo este tiempo de vacaciones que comienza.<br />Gracias por regalarme este descanso.<br />Ayudame a aprovechar el tiempo libre,<br />dando una mano en casa, visitando a mis familiares,<br />en especial a los más viejitos o los enfermos,<br />que siempre se ponen contentos cuando alguien los visita.<br />Que viva estos días con muchas ganas de ayudar<br />y de acordarme de todas las personas que me puedan necesitar.</p>"
+			},
+			{
+				"idora": 33,
+				"titora": "Preparando la Navidad",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Falta poco tiempo<br />para que vuelvas a nacer entre nosotros, Jesús.<br />Quiero vivir esta Navidad<br />con el amor de la virgen María,<br />que te cuidó con cariño<br />y te llevó en la pancita<br />durante nueve meses<br />porque era fiel a lo que Dios le pedía.<br />Quiero vivir esta Navidad<br />con la confianza y la fe de José,<br />que supo estar dispuesto para cumplir<br />con todo lo que el Señor le mandaba,<br />y formó con María y contigo<br />una familia unida y llena de amor.<br />Quiero vivir esta Navidad<br />con muchas ganas<br />de que nazcas en mi corazón<br />para ser cada día más bueno,<br />más generoso y más servicial.<br />Amén</p>"
+			},
+			{
+				"idora": 34,
+				"titora": "Señor de la Vida",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Jesús,<br />en la Pascua<br />nos enseñas que la vida<br />triunfa sobre la muerte.<br />Con tu entrega<br />hasta el final<br />cumpliste la voluntad del Padre,<br />y nos mostraste que la fidelidad pasa<br />por la cruz.<br />La cruz del dolor y la persecución.<br />Ayudanos a ser fieles,<br />que no bajemos los brazos en las dificultades,<br />y cuando nos toque vivir alguna cruz<br />confiemos como vos en la ayuda del Padre.<br />Señor de la Vida<br />enseñanos a vivir más cerca del Reino<br />en las cosas de todos los días.<br />¡Que así sea, Señor!</p>"
+			},
+			{
+				"idora": 35,
+				"titora": "Madre de nuestro pueblo",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Te pedimos hoy, María,<br />por todo nuestro pueblo.<br />Por la gente que sufre y está sin trabajo,<br />por los que están enfermos y sin atención médica.<br />Por los niños de la calle<br />y los que no van a la escuela.<br />Danos fuerzas para vivir solidarios<br />y tender siempre una mano .<br />No nos dejes ser indiferentes y ayúdanos<br />a cambiar las cosas aún desde lo pequeño.<br />Ilumina a nuestros gobernantes<br />para que escuchen a su pueblo y trabajen por su dignidad.<br />Que no le vuelvan la espalda a sus necesidades<br />y no se enriquezcan con lo que es de todos.<br />Guíanos madre hacia un futuro más justo y más fraterno.<br />Queremos construirlo con nuestro esfuerzo,<br />nuestra fe y nuestra esperanza.<br />Danos fuerzas para lograrlo.<br />¡Que así sea, Señor!</p>"
+			},
+			{
+				"idora": 36,
+				"titora": "Tu pan es nuestro alimento",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Me gusta comulgar, Señor.<br />Me gusta recibir tu Cuerpo<br />hecho pan de Vida.<br />Dame fuerzas para vivir<br />como vos nos enseñas:<br />amando a todos<br />y haciendo el bien.<br />Te pido que cada vez que comulgue<br />cambie en mi corazón.<br />Que crezca en la comprensión,<br />el perdón y la generosidad con los demás.<br />Ayudame a ser cada día mejor hijo,<br />mejor hermano, mejor amigo.<br />Que este alimento que recibo<br />me fortalezca y me de más fe.<br />Gracias Señor por ser<br />nuestro pan de cada día.</p>"
+			},
+			{
+				"idora": 37,
+				"titora": "Papá de todos",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Querido Dios,<br />Papá de todos,<br />enseñanos a vivir<br />como hermanos.<br />Sin peleas<br />ni discordias.<br />Sin divisiones<br />ni diferencias.<br />Ayudame a ver<br />en cada persona<br />el rostro de Jesús.<br />Que sea capaz de amar<br />sin fijarme en<br />el color de la piel,<br />la escuela donde uno va,<br />el barrio donde uno vive,<br />la cara que uno tiene,<br />o los amigos con los que se junta.<br />Que aprenda a amar<br />a todos los que me rodean<br />porque todos somos hermanos<br />hijos del mismo Tata Dios.<br />Amén</p>"
+			},
+			{
+				"idora": 38,
+				"titora": "Por la naturaleza",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Padre Bueno,<br />que creaste todas las cosas<br />y nos diste un mundo tan hermoso.<br />Te pido para que los hombres<br />sepamos cuidar tu creación.<br />Que respetemos la vida<br />de los animales, de los bosques.<br />Que no abusemos de la naturaleza<br />ni la ensuciemos con contaminación.<br />Te pido por quienes<br />defienden las bellezas naturales,<br />las especies en extinción,<br />por quienes trabajan por un mundo más limpio.<br />Te pido también para que todas las personas<br />puedan gozar de la naturaleza<br />y los bienes que ella nos provee.<br />Que no le falte a nadie el alimento<br />que Vos nos diste con generosidad para todos.<br />Padre Bueno<br />ayudanos a conservar el planeta<br />y a repartir las riquezas de la naturaleza<br />para beneficio de todos.<br />¡Que así sea, Señor!</p>"
+			},
+			{
+				"idora": 39,
+				"titora": "Padre, estoy creciendo",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Cada día estoy más grande<br />y eso me pone feliz y contento.<br />Estoy creciendo,<br />estoy más alto,<br />más grande.<br />Ayudame a crecer<br />también en el corazón.<br />Que cada día sea más bueno,<br />que tu amor me llene por adentro<br />hasta que contagie a los que me rodean.<br />Ayudame a crecer<br />en sabiduría, en oración,<br />en solidaridad, en buen humor,<br />en entrega a los demás.<br />Cuidame mucho,<br />como cuidaste a tu hijo Jesús<br />cuando crecía.<br />Haceme parecido a él,<br />con sus mismos sentimientos y actitudes.<br />Que crezca como un buen hijo tuyo<br />en la fe, la esperanza<br />y sobre todo en el amor.</p>"
+			},
+			{
+				"idora": 40,
+				"titora": "Enséñanos a compartir",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Querido amigo Jesús,<br />vos pasaste por el mundo<br />haciendo el bien<br />entre todos los hombres,<br />y nos enseñaste<br />a compartir con todos.<br />Lo que somos,<br />lo que tenemos,<br />lo que soñamos,<br />lo que esperamos<br />lo que nos duele y<br />lo que nos alegra.<br />Abrí nuestros corazones<br />para que siempre tendamos la mano al que sufre.<br />Ayudanos a ver en cada hermano tu rostro<br />que nos llama y nos pide vivir con generosidad,<br />amor y entrega a los demás.<br />¡Que así sea, Señor!</p>"
+			},
+			{
+				"idora": 41,
+				"titora": "Señor, dame más fe",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Cada día quiero creer más en vos, querido Jesús.<br />Te quiero confiar mi vida y seguir tu camino.<br />Dame fuerzas para alimentar mi fe,<br />para hacerla crecer,<br />para que se mantenga fuerte cuando tengo dudas<br />o cuando quiero olvidarme lo que vos me enseñaste<br />porque me cuesta vivirlo.<br />Quiero tener una fe grande Señor,<br />que me ayude a llevar mucho amor<br />a todos los que me rodean,<br />y que me muestre el camino<br />de la alegría y la esperanza.<br />¡Que así sea, Señor!</p>"
+			},
+			{
+				"idora": 42,
+				"titora": "Ayúdame a aceptar",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Las cosas que no entiendo,<br />y ponen en duda mi fe.<br />Las cosas que no me gustan,<br />y no puedo evitar que pasen.<br />Las cosas que me rebelan,<br />porque quiero cambiarlas para mejor.<br />Los dolores y tristezas,<br />tú también los sufriste.<br />Ayúdame a aceptar<br />pero no a bajar los brazos.<br />Dame una fe fuerte<br />para cambiar las cosas que puedo,<br />dame mucho amor<br />para comprender a los demás,<br />y dame una esperanza a toda prueba,<br />para creer y luchar por un mundo<br />que sea un poquito mejor cada día.</p>"
+			},
+			{
+				"idora": 43,
+				"titora": "Perdón, Señor",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Por las veces que no soy generoso<br />y no comparto con los demás.<br />Por las veces que ofendo a los otros,<br />con palabras o mentiras.<br />Por las veces que no escucho a mis padres<br />y creo sabermelas todas.<br />Por las veces que peleo con mis hermanos<br />y amigos.<br />Por las veces que no cumplo con mis trabajos, tareas y estudio.<br />Por las veces que me olvido de vos.<br />Porque no escucho tu voz muy adentro mío<br />que siempre me avisa cuando estoy por mandarme alguna macana.<br />Perdoname Señor y dame una nueva oportunidad<br />para vivir como vos nos enseñas.<br />¡Que así sea, Señor!</p>"
+			},
+			{
+				"idora": 44,
+				"titora": "Por la paz",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Jesús, ayudame a vivir en paz con<br />los que me rodean.<br />Que busque la paz en mi familia,<br />poniendo buen humor, ganas de ayudar,<br />comprensión para mis papás,<br />y cariño para mis hermanos.<br />Que busque la paz en mi grupo de amigos,<br />evitando las peleas y discusiones,<br />renunciando a todo tipo de agresión,<br />ayudando a mejorar las relaciones,<br />aprendiendo a perdonar y a aceptar<br />el perdón de otros,<br />contagiendo alegría y ganas de<br />hacer cosas buenas.<br />Que busque la paz en todos los lugares<br />que me encuentre,<br />para ser como decía San Francisco de Asís,<br />un verdadero instrumento de paz.<br />¡Que así sea, Señor!</p>"
+			},
+			{
+				"idora": 45,
+				"titora": "El amor es lo más grande",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Querido amigo Jesús,<br />necesito crecer<br />y brindar más amor a los demás.<br />Se que tengo muchas cosas buenas para dar.<br />Enseñame a ofrecerlas a los demás.<br />Que ayude en mi casa,<br />que colabore en el colegio,<br />que de una mano a mis amigos,<br />que ayude siempre y<br />en todas partes.<br />Porque el amor es lo más grande que hay, Señor,<br />y un corazón lleno de amor<br />vos lo tenés muy en cuenta.<br />Quiero vivir como vos,<br />amando a los demás..</p>"
+			},
+			{
+				"idora": 46,
+				"titora": "Dame esperanza, Señor",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Quiero crecer en la esperanza.<br />Saber que siempre estás para escucharnos.<br />Saber que nunca nos abandonas.<br />Saber que tu amor es más grande que todo.<br />Saber que nos querés de verdad.<br />Señor, hacé crecer<br />la esperanza en mi corazón.<br />Que me confíe en vos,<br />para aprender a esperar.<br />Que sea paciente<br />y nunca baje los brazos.<br />Dame mucha fe,<br />mucho amor<br />y mucha esperanza para vivir.<br />Graicas, Señor.</p>"
+			},
+			{
+				"idora": 47,
+				"titora": "Madre nuestra de cada día",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>María,<br />querida madre.<br />Quiero pedirte<br />por mi familia<br />para que todos estén sanos y bien.<br />Que mis papás tengan trabajo<br />y mis hermanos y yo podamos estudiar mucho.<br />Ayúdame<br />a ser más bueno cada día.<br />A ayudar en mi casa,<br />a no pelear con mis hermanos y amigos.<br />A respetar a todos<br />y no contestar mal.<br />Quiero seguir tus pasos<br />y estar cerca de Dios<br />como vos lo estás.<br />Acompañame siempre en toda mi vida.<br />¡Que así sea, Señor!</p>"
+			},
+			{
+				"idora": 48,
+				"titora": "Señor, que se haga tu voluntad",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Padre Bueno,<br />dame la fe de María<br />para que yo también pueda decir sí<br />a todo lo que me pides.<br />Ayudame a confiar en ti<br />y a seguir tu camino.<br />Que no me borre en los momentos díficiles,<br />cuando cuesta ser cristiano porque hay que vivirlo.<br />Que no me olvide de nuestra madre<br />y le pida fuerzas<br />y compañía.<br />Yo también quiero<br />aprender a decir<br />que se haga tu voluntad.<br />Enseñame cada día,<br />buen Dios.<br />¡Que así sea, Señor!</p>"
+			},
+			{
+				"idora": 49,
+				"titora": "Quiero crecer como Jesús",
+				"titora2": "Por: Marcelo A. Murúa",
+				"imagenf": "no",
+				"ora": "<p>Ayudame Padre Bueno<br />a crecer como Jesús.<br />A ser más bueno cada día,<br />y a querer a todos<br />los que me rodean.<br />Ayudame a estudiar<br />mucho en la escuela<br />y a ser buen amigo y compañero.<br />Quiero aprender mucho,<br />llenarme de las cosas de Dios<br />como Jesús.<br />Quiero aprender a rezar,<br />a leer la Biblia,<br />a vivir como Jesús vivió.<br />Enseñame a seguir sus pasos<br />y a dejarme llenar por el Espíritu de Dios.<br />Que todo lo que aprenda, Señor,<br />aprenda a transmitirlo,<br />que no me lo guarde para mí,<br />sino que lo comparta con los demás, como Jesús.<br />¡Que así sea, Señor!</p>"
+			}
+		]
+	}, {
+		"id": 2,
+		"titulo": "Los Diez Mandamientos",
+		"imagen": "",
+		"manda": "contenidof",
+		"titora": "Los Diez Mandamientos",
+		"titora2": "Todo niño debe conocer los mandamientos de Dios",
+		"imagenf": "mandamientos.jpg",
+		"ora": "<p><strong>Yo soy el Señor tu Dios: </strong></p><p>1. Amarás a Dios sobre todas las cosas.</p><p>2. No tomarás el nombre de Dios en vano.</p><p>3. Santificarás las fiestas</p><p>4. Honrarás a tu padre y a tu madre.</p><p>5. No matarás</p><p>6. No cometerás actos impuros.</p><p>7. No robarás.</p><p>8. No darás falso testimonio ni mentirás.</p><p>9. No permitirás pensamientos ni deseos impuros.</p><p>10. No codiciarás los bienes ajenos.</p>"
+	},{
+		"id": 3,
+		"titulo": "Obras de Misericordia",
+		"imagen": "",
+		"manda": "contenidof",
+		"titora": "Obras de Misericordia",
+		"titora2": "Obras de misericordia corporales y espirituales",
+		"imagenf": "obras.jpg",
+		"ora": "<p><strong>Las siete obras de misericordia corporales</strong><br /><br />1. Visitar y cuidar a los enfermos.<br />2. Dar de comer al hambriento.<br />3. Dar de beber al sediento.<br />4. Dar posada al peregrino.<br />5. Vestir al desnudo.<br />6. Redimir al cautivo.<br />7. Enterrar a los muertos.<br /><br /><strong>Las siete obras de misericordia espirituales</strong><br /><br />1. Enseñar al que no sabe.<br />2. Dar buen consejo al que lo necesita.<br />3. Corregir al que yerra.<br />4. Perdonar las injurias.<br />5. Consolar al triste.<br />6. Sufrir con paciencia los defectos de los demás.<br />7. Rogar a Dios por vivos y difuntos.</p>"
+	},{
+		"id": 4,
+		"titulo": "Confesión y Perdón de los Pecados",
+		"imagen": "",
+		"manda": "contenidof",
+		"titora": "Confesión y Perdón de los Pecados",
+		"titora2": "Por que? como? y que? debemos confesar",
+		"imagenf": "confesion.jpg",
+		"ora": "<p><strong>Por qué confesarse?</strong><br /><br />¡Porque somos pecadores! Es decir, pensamos y actuamos de modo contrario al Evangelio. Quien dice<br />estar sin pecado es un mentiroso o un ciego. En el sacramento Dios Padre perdona a quienes, habiendo<br />negado su condición de hijos, se confiesan de sus pecados y reconocen la misericordia de Dios. Puesto<br />que el pecado de uno solo daña al cuerpo de Cristo que es la Iglesia, el sacramento tiene también como<br />efecto la reconciliación con los hermanos.</p><p><br /><strong>Cómo confesarse?</strong><br /><br />No es siempre fácil confesarse: no se sabe que decir, se cree que no es necesario dirigirse al<br />sacerdote…Tampoco es fácil confesarse bien: hoy como ayer, la dificultad más grande es la exigencia<br />de orientar de nuevo nuestros pensamientos, palabras y acciones que, por nuestra culpa, nos distancian<br />del evangelio. Es necesario «un camino de auténtica conversión, que lleva consigo un aspecto<br />“negativo” de liberación del pecado, y otro aspecto “positivo” de elección del bien enseñado por el<br />Evangelio de Jesús. Este es el contexto para la digna celebración del sacramento de la Penitencia. El<br />camino a recorrer, comienza por la escucha de la voz de Dios y prosigue con el examen de conciencia, el<br />arrepentimiento y el propósito de la enmienda, la invocación de la misericordia divina que se nos<br />concede gratuitamente mediante la absolución, la confesión de los pecados al sacerdote, la satisfacción o<br />cumplimiento de la penitencia impuesta, y finalmente, con la alabanza a Dios por medio de una vida<br />renovada.</p><p><br /><strong>Qué confesar?</strong><br /><br />«El que quiere obtener la reconciliación con Dios y con la Iglesia debe confesar al sacerdote todos los<br />pecados graves que no ha confesado aún y de los que se acuerde, tras examinar cuidadosamente su <br />conciencia. La confesión de las faltas veniales, está recomendada vivamente por la Iglesia». (Catecismo<br />de la Iglesia Católica, 1493)<br />Examen de conciencia<br />Consiste en interrogarse sobre el mal cometido y el bien emitido: hacia Dios, el prójimo y nosotros<br />mismos.</p>"
+	},{
+		"id": 5,
+		"titulo": "Examen de Conciencia",
+		"imagen": "",
+		"manda": "contenidof",
+		"titora": "Las 30 preguntas del Papa Francisco",
+		"titora2": "Las 30 preguntas del Papa Francisco para hacer una buena confesión",
+		"imagenf": "s8.jpg",
+		"ora": "<p><strong>En relación a Dios</strong></p><p>¿Solo me dirijo a Dios en caso de necesidad? ¿Participo regularmente en la Misa los domingos y días de fiesta? ¿Comienzo y termino mi jornada con la oración? ¿Blasfemo en vano el nombre de Dios, de la Virgen, de los santos? ¿Me he avergonzado de manifestarme como católico? ¿Qué hago para crecer espiritualmente, cómo lo hago, cuándo lo hago? ¿Me rebelo contra los designios de Dios? ¿Pretendo que Él haga mi voluntad?</p><p> </p><p><strong>En relación al prójimo</strong></p><p>¿Sé perdonar, tengo comprensión, ayudo a mi prójimo? ¿Juzgo sin piedad tanto de pensamiento como con palabras? ¿He calumniado, robado, despreciado a los humildes y a los indefensos? ¿Soy envidioso, colérico, o parcial? ¿Me avergüenzo de la carne de mis hermanos, me preocupo de los pobres y de los enfermos?</p><p>¿Soy honesto y justo con todos o alimento la cultura del descarte? ¿Incito a otros a hacer el mal? ¿Observo la moral conyugal y familiar enseñada por el Evangelio? ¿Cómo cumplo mi responsabilidad de la educación de mis hijos? ¿Honro a mis padres? ¿He rechazado la vida recién concebida? ¿He colaborado a hacerlo? ¿Respeto el medio ambiente?</p><p> </p><p><strong>En relación a mí mismo</strong></p><p>¿Soy un poco mundano y un poco creyente? ¿Como, bebo, fumo o me divierto en exceso? ¿Me preocupo demasiado de mi salud física, de mis bienes? ¿Cómo utilizo mi tiempo? ¿Soy perezoso? ¿Me gusta ser servido? ¿Amo y cultivo la pureza de corazón, de pensamientos, de acciones? ¿Nutro venganzas, alimento rencores? ¿Soy misericordioso, humilde, y constructor de paz?</p>"
+	}]
+}
