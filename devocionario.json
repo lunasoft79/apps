@@ -1,66 +1,66 @@
 {
 	"data": [{
 		"id": 0,
-		"titulo": "Libro de Oraciones 1",
-		"imagen": "",
+		"titulo": "Devocionario Parte 1",
+		"imagenf": "",
 		"manda": "principal2",
-		"total": "80 Oraciones Católicas",
+		"titora": "Oraciones Católicas de 1 a 80",
 		"archivo": "data/p1.json",
 		"ora": ""
 	}, {
 		"id": 1,
-		"titulo": "Libro de Oraciones 2",
-		"imagen": "",
+		"titulo": "Devocionario Parte 2",
+		"imagenf": "",
 		"manda": "principal2",
-		"total": "80 Oraciones Católicas",
+		"titora": "Oraciones Católicas de 81 a 160",
 		"archivo": "data/p2.json",
 		"ora": ""
 	}, {
 		"id": 2,
-		"titulo": "Libro de Oraciones 3",
-		"imagen": "",
+		"titulo": "Devocionario Parte 3",
+		"imagenf": "",
 		"manda": "principal2",
-		"total": "Liberación en Egipto a primer rey de Israel",
+		"titora": "Oraciones Católicas de 161 a 250",
 		"archivo": "data/p3.json",
 		"ora": ""
 	}, {
 		"id": 3,
 		"titulo": "Citas Biblicas",
-		"imagen": "",
+		"imagenf": "",
 		"manda": "principal2",
-		"total": "Hermosa colección de citas biblicas",
+		"titora": "Hermosa colección de citas biblicas",
 		"archivo": "data/p4.json",
 		"ora": ""
 	}, {
 		"id": 4,
 		"titulo": "Los 10 Mandamientos",
-		"imagen": "",
+		"imagenf": "mandamientos.jpg",
 		"manda": "contenidof",
-		"total": "Todo catolico debe conocer los mandamientos de Dios",
+		"titora": "Todo catolico debe conocer los mandamientos de Dios",
 		"archivo": "",
 		"ora": "<p><strong>Yo soy el Señor tu Dios: </strong></p><p>1. Amarás a Dios sobre todas las cosas.</p><p>2. No tomarás el nombre de Dios en vano.</p><p>3. Santificarás las fiestas</p><p>4. Honrarás a tu padre y a tu madre.</p><p>5. No matarás</p><p>6. No cometerás actos impuros.</p><p>7. No robarás.</p><p>8. No darás falso testimonio ni mentirás.</p><p>9. No permitirás pensamientos ni deseos impuros.</p><p>10. No codiciarás los bienes ajenos.</p>"
 	}, {
 		"id": 5,
 		"titulo": "Obras de Misericordia",
-		"imagen": "",
+		"imagenf": "obras.jpg",
 		"manda": "contenidof",
-		"total": "Obras de misericordia corporales y espirituales",
+		"titora": "Obras de misericordia corporales y espirituales",
 		"archivo": "",
 		"ora": "<p><strong>Las siete obras de misericordia corporales</strong><br /><br />1. Visitar y cuidar a los enfermos.<br />2. Dar de comer al hambriento.<br />3. Dar de beber al sediento.<br />4. Dar posada al peregrino.<br />5. Vestir al desnudo.<br />6. Redimir al cautivo.<br />7. Enterrar a los muertos.<br /><br /><strong>Las siete obras de misericordia espirituales</strong><br /><br />1. Enseñar al que no sabe.<br />2. Dar buen consejo al que lo necesita.<br />3. Corregir al que yerra.<br />4. Perdonar las injurias.<br />5. Consolar al triste.<br />6. Sufrir con paciencia los defectos de los demás.<br />7. Rogar a Dios por vivos y difuntos.</p>"
 	}, {
 		"id": 6,
 		"titulo": "Confesión y Perdón de los Pecados",
-		"imagen": "",
+		"imagenf": "confesion.jpg",
 		"manda": "contenidof",
-		"total": "Por que? como? y que? debemos confesar",
+		"titora": "Por que? como? y que? debemos confesar",
 		"archivo": "",
 		"ora": "<p><strong>Por qué confesarse?</strong><br /><br />¡Porque somos pecadores! Es decir, pensamos y actuamos de modo contrario al Evangelio. Quien dice<br />estar sin pecado es un mentiroso o un ciego. En el sacramento Dios Padre perdona a quienes, habiendo<br />negado su condición de hijos, se confiesan de sus pecados y reconocen la misericordia de Dios. Puesto<br />que el pecado de uno solo daña al cuerpo de Cristo que es la Iglesia, el sacramento tiene también como<br />efecto la reconciliación con los hermanos.</p><p><br /><strong>Cómo confesarse?</strong><br /><br />No es siempre fácil confesarse: no se sabe que decir, se cree que no es necesario dirigirse al<br />sacerdote…Tampoco es fácil confesarse bien: hoy como ayer, la dificultad más grande es la exigencia<br />de orientar de nuevo nuestros pensamientos, palabras y acciones que, por nuestra culpa, nos distancian<br />del evangelio. Es necesario «un camino de auténtica conversión, que lleva consigo un aspecto<br />“negativo” de liberación del pecado, y otro aspecto “positivo” de elección del bien enseñado por el<br />Evangelio de Jesús. Este es el contexto para la digna celebración del sacramento de la Penitencia. El<br />camino a recorrer, comienza por la escucha de la voz de Dios y prosigue con el examen de conciencia, el<br />arrepentimiento y el propósito de la enmienda, la invocación de la misericordia divina que se nos<br />concede gratuitamente mediante la absolución, la confesión de los pecados al sacerdote, la satisfacción o<br />cumplimiento de la penitencia impuesta, y finalmente, con la alabanza a Dios por medio de una vida<br />renovada.</p><p><br /><strong>Qué confesar?</strong><br /><br />«El que quiere obtener la reconciliación con Dios y con la Iglesia debe confesar al sacerdote todos los<br />pecados graves que no ha confesado aún y de los que se acuerde, tras examinar cuidadosamente su <br />conciencia. La confesión de las faltas veniales, está recomendada vivamente por la Iglesia». (Catecismo<br />de la Iglesia Católica, 1493)<br />Examen de conciencia<br />Consiste en interrogarse sobre el mal cometido y el bien emitido: hacia Dios, el prójimo y nosotros<br />mismos.</p>"
 	}, {
 		"id": 7,
 		"titulo": "Examen de Conciencia",
-		"imagen": "",
+		"imagenf": "examen.jpg",
 		"manda": "contenidof",
-		"total": "Las 30 preguntas del Papa Francisco para hacer una buena confesión",
+		"titora": "Las 30 preguntas del Papa Francisco para hacer una buena confesión",
 		"archivo": "",
 		"ora": "<p><strong>En relación a Dios</strong></p><p>¿Solo me dirijo a Dios en caso de necesidad? ¿Participo regularmente en la Misa los domingos y días de fiesta? ¿Comienzo y termino mi jornada con la oración? ¿Blasfemo en vano el nombre de Dios, de la Virgen, de los santos? ¿Me he avergonzado de manifestarme como católico? ¿Qué hago para crecer espiritualmente, cómo lo hago, cuándo lo hago? ¿Me rebelo contra los designios de Dios? ¿Pretendo que Él haga mi voluntad?</p><p> </p><p><strong>En relación al prójimo</strong></p><p>¿Sé perdonar, tengo comprensión, ayudo a mi prójimo? ¿Juzgo sin piedad tanto de pensamiento como con palabras? ¿He calumniado, robado, despreciado a los humildes y a los indefensos? ¿Soy envidioso, colérico, o parcial? ¿Me avergüenzo de la carne de mis hermanos, me preocupo de los pobres y de los enfermos?</p><p>¿Soy honesto y justo con todos o alimento la cultura del descarte? ¿Incito a otros a hacer el mal? ¿Observo la moral conyugal y familiar enseñada por el Evangelio? ¿Cómo cumplo mi responsabilidad de la educación de mis hijos? ¿Honro a mis padres? ¿He rechazado la vida recién concebida? ¿He colaborado a hacerlo? ¿Respeto el medio ambiente?</p><p> </p><p><strong>En relación a mí mismo</strong></p><p>¿Soy un poco mundano y un poco creyente? ¿Como, bebo, fumo o me divierto en exceso? ¿Me preocupo demasiado de mi salud física, de mis bienes? ¿Cómo utilizo mi tiempo? ¿Soy perezoso? ¿Me gusta ser servido? ¿Amo y cultivo la pureza de corazón, de pensamientos, de acciones? ¿Nutro venganzas, alimento rencores? ¿Soy misericordioso, humilde, y constructor de paz?</p><p><strong>Acto de contrición</strong></p><p>Jesús, mi Señor y Redentor, yo me arrepiento de todos los pecados que he cometido hasta hoy, y me pesa de todo corazón porque con ellos he ofendido a un Dios tan bueno. Propongo firmemente no volver a pecar y confío en que por tu infinita misericordia me has de conceder el perdón de mis pecados, y me has de llevar a la vida eterna.</p>"
 	}]
