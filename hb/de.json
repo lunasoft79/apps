@@ -1,0 +1,51 @@
+{
+	"data": [{
+		"id": 0,
+		"titulo": "Teil 1",
+		"imagen": "",
+		"total": "Von der Schöpfung bis zur Sintflut",
+		"archivo" : "js/p1-de.json"
+	}, {
+		"id": 1,
+		"titulo": "Teil 2",
+		"imagen": "",
+		"total": "Von der Sintflut bis zur Befreiung aus Ägypten",
+		"archivo" : "js/p2-de.json"
+	}, {
+		"id": 2,
+		"titulo": "Teil 3",
+		"imagen": "",
+		"total": "Von der Befreiung aus Ägypten bis zum ersten König von Israel",
+		"archivo" : "js/p3-de.json"
+	}, {
+		"id": 3,
+		"titulo": "Teil 4",
+		"imagen": "",
+		"total": "Vom ersten König Israels bis zur Gefangenschaft in Babylon",
+		"archivo" : "js/p4-de.json"
+	}, {
+		"id": 4,
+		"titulo": "Teil 5",
+		"imagen": "",
+		"total": "Von der Gefangenschaft in Babylon bis zum Wiederaufbau der Mauern Jerusalems",
+		"archivo" : "js/p5-de.json"
+	}, {
+		"id": 5,
+		"titulo": "Teil 6",
+		"imagen": "",
+		"total": "Von Jesus’ Geburt bis zu seinem Tod",
+		"archivo" : "js/p6-de.json"
+	}, {
+		"id": 6,
+		"titulo": "Teil 7",
+		"imagen": "",
+		"total": "Von Jesus’ Auferstehung bis zur Haft von Paulus",
+		"archivo" : "js/p7-de.json"
+	}, {
+		"id": 7,
+		"titulo": "Teil 8",
+		"imagen": "",
+		"total": "Was die Bibel vorhersagt, trifft ein",
+		"archivo" : "js/p8-de.json"
+	}]
+}

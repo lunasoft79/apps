@@ -1,0 +1,51 @@
+{
+	"data": [{
+		"id": 0,
+		"titulo": "Parte I",
+		"imagen": "",
+		"total": "Dalla creazione al Diluvio",
+		"archivo" : "js/p1-it.json"
+	}, {
+		"id": 1,
+		"titulo": "Parte II",
+		"imagen": "",
+		"total": "Dal Diluvio alla liberazione dall’Egitto",
+		"archivo" : "js/p2-it.json"
+	}, {
+		"id": 2,
+		"titulo": "Parte III",
+		"imagen": "",
+		"total": "Dalla liberazione dall’Egitto al primo re d’Israele",
+		"archivo" : "js/p3-it.json"
+	}, {
+		"id": 3,
+		"titulo": "Parte IV",
+		"imagen": "",
+		"total": "Dal primo re d’Israele alla prigionia in Babilonia",
+		"archivo" : "js/p4-it.json"
+	}, {
+		"id": 4,
+		"titulo": "Parte V",
+		"imagen": "",
+		"total": "Dalla prigionia in Babilonia alla ricostruzione delle mura di Gerusalemme",
+		"archivo" : "js/p5-it.json"
+	}, {
+		"id": 5,
+		"titulo": "Parte VI",
+		"imagen": "",
+		"total": "Dalla nascita di Gesù alla sua morte",
+		"archivo" : "js/p6-it.json"
+	}, {
+		"id": 6,
+		"titulo": "Parte VII",
+		"imagen": "",
+		"total": "Dalla risurrezione di Gesù alla prigionia di Paolo",
+		"archivo" : "js/p7-it.json"
+	}, {
+		"id": 7,
+		"titulo": "Parte VIII",
+		"imagen": "",
+		"total": "Ciò che la Bibbia predice si avvera",
+		"archivo" : "js/p8-it.json"
+	}]
+}
