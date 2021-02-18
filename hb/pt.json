@@ -1,0 +1,51 @@
+{
+	"data": [{
+		"id": 0,
+		"titulo": "Parte 1",
+		"imagen": "",
+		"total": "Desde a criação até o Dilúvio",
+		"archivo" : "js/p1-pt.json"
+	}, {
+		"id": 1,
+		"titulo": "Parte 2",
+		"imagen": "",
+		"total": "Desde o Dilúvio até a libertação do Egito",
+		"archivo" : "js/p2-pt.json"
+	}, {
+		"id": 2,
+		"titulo": "Parte 3",
+		"imagen": "",
+		"total": "Desde a libertação do Egito até o primeiro rei de Israel",
+		"archivo" : "js/p3-pt.json"
+	}, {
+		"id": 3,
+		"titulo": "Parte 4",
+		"imagen": "",
+		"total": "Desde o primeiro rei de Israel até o cativeiro em Babilônia",
+		"archivo" : "js/p4-pt.json"
+	}, {
+		"id": 4,
+		"titulo": "Parte 5",
+		"imagen": "",
+		"total": "Desde o cativeiro em Babilônia até a reconstrução dos muros de Jerusalém",
+		"archivo" : "js/p5-pt.json"
+	}, {
+		"id": 5,
+		"titulo": "Parte 6",
+		"imagen": "",
+		"total": "Desde o nascimento de Jesus até a sua morte",
+		"archivo" : "js/p6-pt.json"
+	}, {
+		"id": 6,
+		"titulo": "Parte 7",
+		"imagen": "",
+		"total": "Desde a ressurreição de Jesus até a prisão de Paulo",
+		"archivo" : "js/p7-pt.json"
+	}, {
+		"id": 7,
+		"titulo": "Parte 8",
+		"imagen": "",
+		"total": "O que a Bíblia prediz se cumpre",
+		"archivo" : "js/p8-pt.json"
+	}]
+}

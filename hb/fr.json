@@ -1,0 +1,51 @@
+{
+	"data": [{
+		"id": 0,
+		"titulo": "1re PARTIE",
+		"imagen": "",
+		"total": "De la création au déluge",
+		"archivo" : "js/p1-fr.json"
+	}, {
+		"id": 1,
+		"titulo": "2e PARTIE",
+		"imagen": "",
+		"total": "Du déluge à la délivrance d’Égypte",
+		"archivo" : "js/p2-fr.json"
+	}, {
+		"id": 2,
+		"titulo": "3e PARTIE",
+		"imagen": "",
+		"total": "De la délivrance d’Égypte au premier roi d’Israël",
+		"archivo" : "js/p3-fr.json"
+	}, {
+		"id": 3,
+		"titulo": "4e PARTIE",
+		"imagen": "",
+		"total": "Du premier roi d’Israël à la captivité de Babylone",
+		"archivo" : "js/p4-fr.json"
+	}, {
+		"id": 4,
+		"titulo": "5e PARTIE",
+		"imagen": "",
+		"total": "De la captivité de Babylone à la reconstruction des murailles de Jérusalem",
+		"archivo" : "js/p5-fr.json"
+	}, {
+		"id": 5,
+		"titulo": "6e PARTIE",
+		"imagen": "",
+		"total": "Jésus : de sa naissance à sa mort",
+		"archivo" : "js/p6-fr.json"
+	}, {
+		"id": 6,
+		"titulo": "7e PARTIE",
+		"imagen": "",
+		"total": "De la résurrection de Jésus à l’emprisonnement de Paul",
+		"archivo" : "js/p7-fr.json"
+	}, {
+		"id": 7,
+		"titulo": "8e PARTIE",
+		"imagen": "",
+		"total": "Tout ce qu’annonce la Bible se réalise",
+		"archivo" : "js/p8-fr.json"
+	}]
+}
