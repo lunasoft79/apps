@@ -1,49 +1,49 @@
 {
 	"data": [{
 		"id": 0,
-		"titulo": "Parte 1",
+		"titulo": "Part 1",
 		"imagen": "",
 		"total": "Creation to the Flood",
 		"archivo" : "js/p1-en.json"
 	}, {
 		"id": 1,
-		"titulo": "Parte 2",
+		"titulo": "Part 2",
 		"imagen": "",
 		"total": "The Flood to the Deliverance From Egypt",
 		"archivo" : "js/p2-en.json"
 	}, {
 		"id": 2,
-		"titulo": "Parte 3",
+		"titulo": "Part 3",
 		"imagen": "",
 		"total": "Deliverance From Egypt to Israel’s First King",
 		"archivo" : "js/p3-en.json"
 	}, {
 		"id": 3,
-		"titulo": "Parte 4",
+		"titulo": "Part 4",
 		"imagen": "",
 		"total": "Israel’s First King to Captivity in Babylon",
 		"archivo" : "js/p4-en.json"
 	}, {
 		"id": 4,
-		"titulo": "Parte 5",
+		"titulo": "Part 5",
 		"imagen": "",
 		"total": "Captivity in Babylon to Rebuilding of Jerusalem’s Walls",
 		"archivo" : "js/p5-en.json"
 	}, {
 		"id": 5,
-		"titulo": "Parte 6",
+		"titulo": "Part 6",
 		"imagen": "",
 		"total": "Birth of Jesus to His Death",
 		"archivo" : "js/p6-en.json"
 	}, {
 		"id": 6,
-		"titulo": "Parte 7",
+		"titulo": "Part 7",
 		"imagen": "",
 		"total": "Jesus’ Resurrection to Paul’s Imprisonment",
 		"archivo" : "js/p7-en.json"
 	}, {
 		"id": 7,
-		"titulo": "Parte 8",
+		"titulo": "Part 8",
 		"imagen": "",
 		"total": "What the Bible Foretells Comes True",
 		"archivo" : "js/p8-en.json"
