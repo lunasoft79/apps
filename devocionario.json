@@ -4,7 +4,7 @@
 		"titulo": "Devocionario Parte 1",
 		"imagenf": "",
 		"manda": "principal2",
-		"titora": "Oraciones Católicas de 1 a 80",
+		"titora": "Oraciones Católicas de 1 a 81",
 		"archivo": "data/p1.json",
 		"ora": ""
 	}, {
@@ -12,7 +12,7 @@
 		"titulo": "Devocionario Parte 2",
 		"imagenf": "",
 		"manda": "principal2",
-		"titora": "Oraciones Católicas de 81 a 160",
+		"titora": "Oraciones Católicas de 82 a 161",
 		"archivo": "data/p2.json",
 		"ora": ""
 	}, {
@@ -20,7 +20,7 @@
 		"titulo": "Devocionario Parte 3",
 		"imagenf": "",
 		"manda": "principal2",
-		"titora": "Oraciones Católicas de 161 a 250",
+		"titora": "Oraciones Católicas de 162 a 251",
 		"archivo": "data/p3.json",
 		"ora": ""
 	}, {
