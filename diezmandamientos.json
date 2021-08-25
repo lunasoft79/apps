@@ -101,72 +101,7 @@
 		"imagenf": "bienes.jpg",
 		"ora": "<p><strong>DÉCIMO MANDAMIENTO:</strong></p><div> </div><p><strong>NO CODICIARÁS LOS BIENES AJENOS</strong></p><p><strong>¿Qué manda y qué prohíbe el décimo mandamiento?</strong></p><p>Este mandamiento, que complementa al precedente, exige una actitud interior de respeto en relación con la propiedad ajena, y prohíbe la <em>avaricia</em>, el <em>deseo desordenado</em> de los bienes de otros y la <em>envidia</em>, que consiste en la tristeza experimentada ante los bienes del prójimo y en el deseo desordenado de apropiarse de los mismos.</p><p><strong>¿Qué exige Jesús con la pobreza del corazón?</strong></p><p>Jesús exige a sus discípulos que le antepongan a Él respecto a todo y a todos. El desprendimiento de las riquezas –según el espíritu de la pobreza evangélica– y el abandono a la providencia de Dios, que nos libera de la preocupación por el mañana, nos preparan para la bienaventuranza de «los pobres de espíritu, porque de ellos es el Reino de los Cielos» (<em>Mt</em> 5, 3).</p><div><strong>¿Cuál es el mayor deseo del hombre?</strong></div><p>El mayor deseo del hombre es ver a Dios. Éste es el grito de todo su ser: «¡Quiero ver a Dios!». El hombre, en efecto, realiza su verdadera y plena felicidad en la visión y en la bienaventuranza de Aquel que lo ha creado por amor, y lo atrae hacia sí en su infinito amor.</p><p><em>«El que ve a Dios obtiene todos los bienes que se pueden concebir»<br/></em>(San Gregorio de Nisa).</p>"
 	},{
-    "id": 11,
-		"titulo": "Oraciones Católicas",
-		"imagen": "1b.png",
-		"titora": "Las Oraciones mas usadas",
-		"titora2": "Listado de Oraciones Basicas",
-		"manda": "principal2",
-    "inicia":0,
-    "final": 10,
-		"contenido": [{
-			"idora": 0,
-			"imagenf": "pn.png",
-			"titora": "Padre Nuestro",
-			"ora": "Padre nuestro,<br />que estás en el cielo,<br />santificado sea tu Nombre;<br />venga a nosotros tu reino;<br />hágase tu voluntad<br />en la tierra como en el cielo.<br /><br />Danos hoy nuestro pan de cada día;<br />perdona nuestras ofensas,<br />como también nosotros perdonamos<br />a los que nos ofenden;<br />no nos dejes caer en la tentación,<br />y líbranos del mal. Amén."
-		}, {
-			"idora": 1,
-			"titora": "Ave Maria",
-			"imagenf": "av.png",
-			"ora": "Dios te salve María<br />llena eres de gracia<br />el Señor es contigo;<br />bendita tú eres<br />entre todas las mujeres,<br />y bendito es el fruto<br />de tu vientre, Jesús.<br /><br />Santa María, Madre de Dios,<br />ruega por nosotros, pecadores,<br />ahora y en la ahora<br />de nuestra muerte. Amén"
-		}, {
-			"idora": 2,
-			"titora": "Gloria",
-			"imagenf": "gloria.png",
-			"ora": "Gloria al Padre, y al Hijo, y al Espíritu<br />Santo. Como era en el principio, ahora<br />y siempre, por los siglos de los siglos.<br />Amén."
-		}, {
-			"idora": 3,
-			"titora": "Salve Regina",
-			"imagenf": "sr.png",
-			"ora": "Dios te salve, Reina y Madre de misericordia,<br />vida y dulzura y esperanza nuestra:<br />Dios te salve. A ti llamamos los desterrados hijos de Eva;<br />a ti suspiramos, gimiendo y llorando en este valle de lágrimas.<br />Ea, pues, Señora abogada nuestra,<br />vuelve a nosotros esos tus ojos misericordiosos<br />y, después de este destierro, muéstranos a Jesús,<br />fruto bendito de tu vientre.<br />¡Oh clementísima! ¡oh piadosa! ¡oh dulce Virgen María!<br /><br />V. Ruega por nosotros santa Madre de Dios,<br />R. Para que seamos dignos de alcanzar las promesas<br />de nuestro Señor Jesucristo.<br />Amén."
-		}, {
-			"idora": 4,
-			"titora": "Acto de Consagración",
-			"imagenf": "ob0.png",
-			"ora": "¡Oh Señora mía, <br />oh Madre mía!, <br />yo me entrego del todo a Ti <br />y en prueba de mi afecto, <br />con amor filial <br />te consagro en este día: <br />todo lo que soy, todo lo que tengo. <br />Guarda y protege, <br />y también defiende a este hijo tuyo, <br />que así sea."
-		}, {
-			"idora": 5,
-			"titora": "Angelus",
-			"imagenf": "ob2.png",
-			"ora": "D: El Ángel del Señor anunció a María.<br /><br />T: Y Ella concibió por obra y gracia del Espíritu Santo.<br /><br />Ave María<br /><br />D: He aquí la sierva del Señor.<br /><br />T: Hágase en mí según tu palabra.<br /><br />Ave María<br /><br />D: Y el Verbo se hizo carne.<br /><br />T: Y habitó entre nosotros.<br /><br />Ave María<br /><br />D: Ruega por nosotros Santa Madre de Dios.<br /><br />T: Para que seamos dignos de alcanzar las promesas de Nuestro Señor Jesucristo.<br /><br />Se rezan tres glorias<br /><br />D: Oremos<br />Derrama Señor tu gracia sobre nuestros corazones y concede a quienes hemos conocido por el anuncio del Ángel la Encarnación de tu Hijo, que por su Pasión y su Cruz alcancemos la gloria de la Resurrección. Por el Señor Jesús, tu Hijo, que contigo vive y reina, en unidad del Espíritu Santo, y es Dios, por los siglos de los siglos.<br /><br />T: Amén"
-		}, {
-			"idora": 6,
-			"titora": "Credo de Nicea",
-			"imagenf": "ob7.png",
-			"ora": "Creo en un solo Dios, <br />Padre todopoderoso, <br />Creador del cielo y de la tierra, <br />de todo lo visible y lo invisible.<br /><br />Creo en un solo Señor, Jesucristo, <br />Hijo único de Dios, <br />nacido del Padre antes de todos los siglos: <br />Dios de Dios, <br />Luz de Luz, <br />Dios verdadero de Dios verdadero, <br />engendrado, no creado, <br />de la misma naturaleza del Padre, <br />por quien todo fue hecho; <br />que por nosotros lo hombres, <br />y por nuestra salvación <br />bajó del cielo, <br />y por obra del Espíritu Santo <br />se encarnó de María, la Virgen, <br />y se hizo hombre; <br />y por nuestra causa fue crucificado <br />en tiempos de Poncio Pilato; <br />padeció y fue sepultado, <br />y resucitó al tercer día, según las Escrituras, <br />y subió al cielo, <br />y está sentado a la derecha del Padre; <br />y de nuevo vendrá con gloria <br />para juzgar a vivos y muertos, <br />y su reino no tendrá fin.<br /><br />Creo en el Espíritu Santo, <br />Señor y dador de vida, <br />que procede del Padre y del Hijo, <br />que con el Padre y el Hijo <br />recibe una misma adoración y gloria, <br />y que habló por los profetas.<br /><br />Creo en la Iglesia, <br />que es una, santa, católica y apostólica.<br />Confieso que hay un solo bautismo <br />para el perdón de los pecados. <br />Espero la resurrección de los muertos <br />y la vida del mundo futuro. <br />Amén."
-		}, {
-			"idora": 7,
-			"titora": "La Salve",
-			"imagenf": "ob3.png",
-			"ora": "Dios te salve, Reina y Madre de misericordia, <br />vida, dulzura y esperanza nuestra; <br />Dios te salve.<br /><br />A Ti clamamos los desterrados hijos de Eva; <br />a Ti suspiramos, gimiendo y llorando, <br />en este valle de lágrimas.<br /><br />Ea, pues, Señora, abogada nuestra, <br />vuelve a nosotros esos tus ojos misericordiosos, <br />y después de este destierro muéstranos a Jesús, <br />fruto bendito de tu vientre.<br /><br />¡Oh clemente, oh piadosa, oh dulce Virgen María!<br /><br />D: Ruega por nosotros Santa Madre de Dios.<br /><br />T: Para que seamos dignos de alcanzar <br />las promesas de nuestro Señor Jesucristo. Amén"
-		}, {
-			"idora": 8,
-			"titora": "Alégrate María",
-			"imagenf": "ob4.png",
-			"ora": "Alégrate María,<br />Inmaculada y Santa,<br />amada de Dios,<br />nueva Eva elegida,<br />cooperadora de la reconciliación.<br /><br />Madre de Jesús y nuestra,<br />incansable auxilio de los pecadores,<br />maternal intercesora,<br />acuérdate de este hijo tuyo.<br />Amén."
-		}, {
-			"idora": 9,
-			"titora": "Oración del \"Fiat\"",
-			"imagenf": "ob5.png",
-			"ora": "Santa María, ayúdame a esforzarme <br />según el máximo de mi capacidad<br />y al máximo de mis posibilidades<br />para así responder al Plan de Dios<br />en todas las circunstancias <br />concretas de mi vida. Amén."
-		}, {
-			"idora": 10,
-			"titora": "Regina Coeli o Reina del Cielo",
-			"imagenf": "ob6.png",
-			"ora": "ESPAÑOL<br /><br />G: Reina del cielo, alégrate, aleluya.<br />T: Porque el Señor, a quien has llevado en tu vientre, aleluya.<br /><br />G: Ha resucitado según su palabra, aleluya.<br />T: Ruega al Señor por nosotros, aleluya.<br /><br />G: Goza y alégrate Virgen María, aleluya. <br />T: Porque en verdad ha resucitado el Señor, aleluya. <br /><br />Oremos:<br />Oh Dios, que por la resurrección de Tu Hijo, Nuestro Señor Jesucristo, has llenado el mundo de alegría, concédenos, por intercesión de su Madre, la Virgen María, llegar a los gozos eternos. Por Jesucristo Nuestro Señor. Amen.<br /><br />Gloria al Padre y al Hijo y al Espíritu Santo, como era en el principio ahora y siempre por los siglos de los siglos. Amen. (tres veces)<br /><br /><br /><br />LATÍN<br /><br />V: Regina caeli, laetare, alleluia.<br />R: Quia quem meruisti portare, alleluia.<br /><br />V: Resurrexit, sicut dixit, alleluia.<br />R: Ora pro nobis Deum, alleluia.<br /><br />V: Gaude et laetare Virgo María, alleluia.<br />R: Quia surrexit Dominus vere, alleluia.<br /><br />Oremus:<br />Deus, qui per resurrectionem Filii tui, Domini nostri Iesu Christi, mundum laetificare dignatus es: praesta, quaesumus; ut, per eius Genetricem Virginem Mariam, perpetuae capiamus gaudia vitae. Per eundem Christum Dominum nostrum. Amen.<br /><br />Gloria Patri, et Fili, et Spiritui Sancto. Sicut erat in principio, et nunc et semper, et in saeccula saeculorum. Amen. (3 veces)<br /><br /><br />Benedicto XIV estableció, en 1742, que durante el tiempo Pascual (desde la Resurrección del Señor hasta el día de Pentecostés) se sustituyera el rezo del Ángelus por la antífona \"Regina Coeli\"."
-		}]
-	},{
-		"id": 12,
+		"id": 11,
 		"titulo": "Examen de Conciencia",
 		"imagen": "2b.png",
 		"manda": "contenidof",
