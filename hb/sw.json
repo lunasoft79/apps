@@ -1,0 +1,51 @@
+{
+	"data": [{
+		"id": 0,
+		"titulo": "Sehemu Ya 1",
+		"imagen": "",
+		"total": "Uumbaji mpaka Gharika",
+		"archivo" : "js/p1-sw.json"
+	}, {
+		"id": 1,
+		"titulo": "Sehemu Ya 2",
+		"imagen": "",
+		"total": "Gharika Mpaka Kukombolewa Katika Misri",
+		"archivo" : "js/p2-sw.json"
+	}, {
+		"id": 2,
+		"titulo": "Sehemu Ya 3",
+		"imagen": "",
+		"total": "Kukombolewa Misri Mpaka Mfalme wa Kwanza wa Israeli",
+		"archivo" : "js/p3-sw.json"
+	}, {
+		"id": 3,
+		"titulo": "Sehemu Ya 4",
+		"imagen": "",
+		"total": "Mfalme wa Kwanza wa Israeli Mpaka Utumwa Babeli",
+		"archivo" : "js/p4-sw.json"
+	}, {
+		"id": 4,
+		"titulo": "Sehemu Ya 5",
+		"imagen": "",
+		"total": "Utumwa Babeli Mpaka Kujengwa Upya Kuta za Yerusalemu",
+		"archivo" : "js/p5-sw.json"
+	}, {
+		"id": 5,
+		"titulo": "Sehemu Ya 6",
+		"imagen": "",
+		"total": "Kuzaliwa Yesu Mpaka Kufa Kwake",
+		"archivo" : "js/p6-sw.json"
+	}, {
+		"id": 6,
+		"titulo": "Sehemu Ya 7",
+		"imagen": "",
+		"total": "Kufufuliwa kwa Yesu Mpaka Kufungwa kwa Paulo",
+		"archivo" : "js/p7-sw.json"
+	}, {
+		"id": 7,
+		"titulo": "Sehemu Ya 8",
+		"imagen": "",
+		"total": "Unabii wa Biblia Unatimizwa",
+		"archivo" : "js/p8-sw.json"
+	}]
+}
