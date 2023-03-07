@@ -1,0 +1,51 @@
+{
+	"data": [{
+		"id": 0,
+		"titulo": "Bagian 1",
+		"imagen": "",
+		"total": "Penciptaan Sampai Air Bah",
+		"archivo" : "js/p1-id.json"
+	}, {
+		"id": 1,
+		"titulo": "Bagian 2",
+		"imagen": "",
+		"total": "Air Bah Sampai Kelepasan dari Mesir",
+		"archivo" : "js/p2-id.json"
+	}, {
+		"id": 2,
+		"titulo": "Bagian 3",
+		"imagen": "",
+		"total": "Kelepasan dari Mesir Sampai Raja Israel yang Pertama",
+		"archivo" : "js/p3-id.json"
+	}, {
+		"id": 3,
+		"titulo": "Bagian 4",
+		"imagen": "",
+		"total": "Raja Israel yang Pertama Sampai Pembuangan di Babel",
+		"archivo" : "js/p4-id.json"
+	}, {
+		"id": 4,
+		"titulo": "Bagian 5",
+		"imagen": "",
+		"total": "Ditawan di Babel Sampai Membangun Kembali Tembok Yerusalem",
+		"archivo" : "js/p5-id.json"
+	}, {
+		"id": 5,
+		"titulo": "Bagian 6",
+		"imagen": "",
+		"total": "Kelahiran Yesus sampai Kematiannya",
+		"archivo" : "js/p6-id.json"
+	}, {
+		"id": 6,
+		"titulo": "Bagian 7",
+		"imagen": "",
+		"total": "Yesus Dibangkitkan sampai Paulus Dipenjarakan",
+		"archivo" : "js/p7-id.json"
+	}, {
+		"id": 7,
+		"titulo": "Bagian 8",
+		"imagen": "",
+		"total": "Apa yang Alkitab Nubuatkan Menjadi Kenyataan",
+		"archivo" : "js/p8-id.json"
+	}]
+}
