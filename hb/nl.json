@@ -1,0 +1,51 @@
+{
+	"data": [{
+		"id": 0,
+		"titulo": " Deel 1",
+		"imagen": "",
+		"total": "Van de schepping tot de Vloed",
+		"archivo" : "js/p1-nl.json"
+	}, {
+		"id": 1,
+		"titulo": " Deel 2",
+		"imagen": "",
+		"total": "Van de Vloed tot de bevrijding uit Egypte",
+		"archivo" : "js/p2-nl.json"
+	}, {
+		"id": 2,
+		"titulo": " Deel 3",
+		"imagen": "",
+		"total": "Van de bevrijding uit Egypte tot Israëls eerste koning",
+		"archivo" : "js/p3-nl.json"
+	}, {
+		"id": 3,
+		"titulo": " Deel 4",
+		"imagen": "",
+		"total": "Van Israëls eerste koning tot de gevangenschap in Babylon",
+		"archivo" : "js/p4-nl.json"
+	}, {
+		"id": 4,
+		"titulo": " Deel 5",
+		"imagen": "",
+		"total": "Van de gevangenschap in Babylon tot de herbouw van de muren van Jeruzalem",
+		"archivo" : "js/p5-nl.json"
+	}, {
+		"id": 5,
+		"titulo": " Deel 6",
+		"imagen": "",
+		"total": "Van de geboorte van Jezus tot zijn dood",
+		"archivo" : "js/p6-nl.json"
+	}, {
+		"id": 6,
+		"titulo": " Deel 7",
+		"imagen": "",
+		"total": "Van de opstanding van Jezus tot de gevangenschap van Paulus",
+		"archivo" : "js/p7-nl.json"
+	}, {
+		"id": 7,
+		"titulo": " Deel 8",
+		"imagen": "",
+		"total": "Wat de bijbel voorspelt, komt uit",
+		"archivo" : "js/p8-nl.json"
+	}]
+}
